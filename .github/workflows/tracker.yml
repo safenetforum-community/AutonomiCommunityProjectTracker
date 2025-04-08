@@ -2,6 +2,7 @@ name: Autonomi Tracker
 
 on:
   schedule:
+    - cron: "0 12 * * *" # Daily at 12:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -15,17 +16,23 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Run Enhanced Tracker
+      - name: Install dependencies
+        run: pip install requests python-dateutil
+
+      - name: Run Tracker
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Clone fresh to ensure self-tracking works
+          git clone https://github.com/${{ github.repository }}.git tmp-repo
+          cd tmp-repo
           python autonomi_tracker.py
-          cat docs/index.md  # Preview in logs
+          cp docs/* ../docs/
 
-      - name: Commit Changes
+      - name: Commit and Push
         run: |
           git config --global user.name "Autonomi Tracker Bot"
-          git config --global user.email ""
-          git add docs/index.md
-          git commit -m "Update project list [skip ci]" || echo "No changes"
+          git config --global user.email "tracker@autonomi.com"
+          git add docs/
+          git commit -m "Update reports [skip ci]" || echo "No changes"
           git push

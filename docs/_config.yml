@@ -1,0 +1,7 @@
+title: Autonomi Community Tracker
+theme: jekyll-theme-minimal
+navbar:
+  - title: Daily Report
+    url: /
+  - title: Weekly Report
+    url: /weekly.html
