@@ -2,7 +2,7 @@ name: Autonomi Tracker
 
 on:
   schedule:
-    - cron: "0 12 * * *" # Daily at 12:00 UTC
+    - cron: "17 03 * * *" # Daily at   03:17 UTC
   workflow_dispatch:
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
       - name: Commit and Push
         run: |
           git config --global user.name "Autonomi Tracker Bot"
-          git config --global user.email "tracker@autonomi.com"
+          git config --global user.email "noreply@airfinesse.com"
           git add docs/
           git commit -m "Update reports [skip ci]" || echo "No changes"
           git push

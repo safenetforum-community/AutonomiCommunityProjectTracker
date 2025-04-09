@@ -52,16 +52,10 @@ def build_search_queries(args):
     search_terms = [
         'autonomi.com',
         'autonomi network',
-        'autonomi',
-        'ant network',
-        'autonomi/ant',
-        'safe network',
-        'maidsafe',
-        'autonomous internet',
-        'decentralized storage'
+        ' autonomi ',
     ]
     
-    search_fields = ['name', 'description', 'readme', 'topics']
+    search_fields = ['name', 'description', 'readme']#, 'topics']
     queries = []
     
     for term in search_terms:
@@ -176,8 +170,15 @@ def generate_weekly_report(repositories):
             continue
             
         try:
-            updated_at = datetime.strptime(repo.get('updated_at', ''), '%Y-%m-%dT%H:%M:%SZ')
-            created_at = datetime.strptime(repo.get('created_at', ''), '%Y-%m-%dT%H:%M:%SZ')
+            # Safely get dates with defaults
+            updated_at_str = repo.get('updated_at', '')
+            created_at_str = repo.get('created_at', '')
+            
+            if not updated_at_str or not created_at_str:
+                continue
+                
+            updated_at = datetime.strptime(updated_at_str, '%Y-%m-%dT%H:%M:%SZ')
+            created_at = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%SZ')
             
             # Always include the tracker project
             if TRACKER_REPO.lower() in repo.get('full_name', '').lower():
@@ -186,7 +187,9 @@ def generate_weekly_report(repositories):
                 
             if updated_at >= one_week_ago:
                 weekly_repos.append(repo)
-        except:
+        except (ValueError, TypeError) as e:
+            if args.debug:
+                print(f"DEBUG: Skipping repo due to date parsing error: {str(e)}")
             continue
     
     markdown = """# Autonomi Weekly Update Report
@@ -195,12 +198,25 @@ def generate_weekly_report(repositories):
 | Repository | Description | Updated | Stars | Changes |
 |------------|-------------|---------|-------|---------|
 """
-    for repo in sorted(weekly_repos, key=lambda x: x['updated_at'], reverse=True):
-        created_at = datetime.strptime(repo['created_at'], '%Y-%m-%dT%H:%M:%SZ')
-        changes = "New project" if created_at >= one_week_ago else "Updated"
-        
-        markdown += f"""| [{repo['full_name']}]({repo['html_url']}) | {repo.get('description', '')[:100]}... | {repo['updated_at'][:10]} | {repo['stargazers_count']} | {changes} |
+    for repo in weekly_repos:
+        try:
+            # Safely get all required fields with defaults
+            full_name = repo.get('full_name', 'Unknown')
+            html_url = repo.get('html_url', '#')
+            description = repo.get('description', '')[:100]
+            updated_at = repo.get('updated_at', '')[:10]
+            stars = repo.get('stargazers_count', 0)
+            
+            created_at = datetime.strptime(repo.get('created_at', ''), '%Y-%m-%dT%H:%M:%SZ')
+            changes = "New project" if created_at >= one_week_ago else "Updated"
+            
+            markdown += f"""| [{full_name}]({html_url}) | {description}{'...' if len(description) >= 100 else ''} | {updated_at} | {stars} | {changes} |
 """
+        except Exception as e:
+            if args.debug:
+                print(f"DEBUG: Error processing repo {repo.get('html_url', 'unknown')}: {str(e)}")
+            continue
+    
     return markdown, len(weekly_repos)
 
 def main():

@@ -17,6 +17,7 @@ REQUEST_DELAY = 2  # seconds between API calls
 MAX_RETRIES = 2
 SUPPRESS_ERRORS = True
 MIN_START_DATE = "2024-01-01"  # Only projects created after this date
+TRACKER_REPO = "AutonomiCommunityProjectTracker"
 
 def parse_args():
     """Parse command line arguments"""
@@ -59,12 +60,13 @@ def search_repositories(args):
     base_queries = [
         'autonomi.com in:name,description,readme',
         '"Autonomi Network" in:name,description,readme',
-        'autonomi in:name,description,readme -autonomous'
+        'autonomi in:name,description,readme ',
+        f'{TRACKER_REPO} in:name'  # Explicitly include the tracker
     ]
     
     repos = []
     for base_query in base_queries:
-        full_query = build_search_query(base_query, args)
+        full_query = base_query if TRACKER_REPO in base_query else build_search_query(base_query, args)
         data = safe_request(GITHUB_API_URL, {
             'q': full_query,
             'sort': 'updated',
@@ -80,13 +82,18 @@ def search_repositories(args):
     return repos
 
 def generate_markdown_report(repositories, args):
-    """Generate report with date filtering"""
+    """Generate daily report with all projects"""
     unique_repos = {}
     for repo in repositories:
         if not isinstance(repo, dict):
             continue
             
-        # Apply additional date filters if needed
+        # Always include the tracker project
+        if TRACKER_REPO.lower() in repo.get('full_name', '').lower():
+            unique_repos[repo['html_url']] = repo
+            continue
+            
+        # Apply date filters to other projects
         created_at = datetime.strptime(repo['created_at'], '%Y-%m-%dT%H:%M:%SZ')
         if created_at < datetime.strptime(MIN_START_DATE, '%Y-%m-%d'):
             continue
@@ -105,7 +112,6 @@ def generate_markdown_report(repositories, args):
         
         unique_repos[repo['html_url']] = repo
     
-    # Prepare report header with filter info
     date_filters = f"Created after {MIN_START_DATE}"
     if args.recent:
         date_filters += " and updated in last week"
@@ -117,7 +123,6 @@ def generate_markdown_report(repositories, args):
 |------------|-------------|---------|---------|-------|------------|
 """
     for repo in sorted(unique_repos.values(), key=lambda x: x['updated_at'], reverse=True):
-        # Safely build references string
         refs = set()
         if 'autonomi.com' in (repo.get('html_url') or '').lower():
             refs.add('URL')
@@ -133,6 +138,38 @@ def generate_markdown_report(repositories, args):
     
     return markdown
 
+def generate_weekly_report(repositories):
+    """Generate weekly report of recently updated projects"""
+    one_week_ago = datetime.now() - timedelta(days=7)
+    
+    weekly_repos = []
+    for repo in repositories:
+        if not isinstance(repo, dict):
+            continue
+            
+        # Always include the tracker project
+        if TRACKER_REPO.lower() in repo.get('full_name', '').lower():
+            weekly_repos.append(repo)
+            continue
+            
+        updated_at = datetime.strptime(repo.get('updated_at', ''), '%Y-%m-%dT%H:%M:%SZ')
+        if updated_at >= one_week_ago:
+            weekly_repos.append(repo)
+    
+    markdown = """# Autonomi Weekly Update Report
+### (Projects updated in the last 7 days)
+
+| Repository | Description | Updated | Stars | Changes |
+|------------|-------------|---------|-------|---------|
+"""
+    for repo in sorted(weekly_repos, key=lambda x: x['updated_at'], reverse=True):
+        created_at = datetime.strptime(repo['created_at'], '%Y-%m-%dT%H:%M:%SZ')
+        changes = "New project" if created_at >= one_week_ago else "Updated"
+        
+        markdown += f"""| [{repo['full_name']}]({repo['html_url']}) | {repo.get('description', '')[:100]}... | {repo['updated_at'][:10]} | {repo['stargazers_count']} | {changes} |
+"""
+    return markdown, len(weekly_repos)
+
 def main():
     args = parse_args()
     print("🚀 Starting Autonomi Community Project Tracker...")
@@ -143,13 +180,19 @@ def main():
     repos = search_repositories(args)
     print(f"✅ Found {len(repos)} matching repositories")
     
+    # Generate both reports
+    daily_report = generate_markdown_report(repos, args)
+    weekly_report, weekly_count = generate_weekly_report(repos)
+    
+    # Save both files
     os.makedirs('docs', exist_ok=True)
     with open('docs/index.md', 'w', encoding='utf-8') as f:
-        f.write(generate_markdown_report(repos, args))
+        f.write(daily_report)
+    with open('docs/weekly.md', 'w', encoding='utf-8') as f:
+        f.write(weekly_report)
     
-    unique_count = len({r['html_url'] for r in repos if isinstance(r, dict)})
-    print(f"📊 Found {unique_count} unique projects matching criteria")
-    print("📄 Report saved to docs/index.md")
+    print(f"📊 Weekly report: {weekly_count} updated projects")
+    print("📄 Reports saved to docs/index.md and docs/weekly.md")
 
 if __name__ == "__main__":
     main()
