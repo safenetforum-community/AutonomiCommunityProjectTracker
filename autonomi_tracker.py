@@ -2,252 +2,133 @@ import requests
 from datetime import datetime, timedelta
 import os
 import re
-import time
 import argparse
-from collections import defaultdict
 
 # GitHub API setup
 GITHUB_API_URL = "https://api.github.com/search/repositories"
-SEARCH_CODE_URL = "https://api.github.com/search/code"
 TOKEN = os.getenv('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {TOKEN}'} if TOKEN else {}
 
 # Configuration
-REQUEST_DELAY = 2  # seconds between API calls
-MAX_RETRIES = 3
-SUPPRESS_ERRORS = False  # Set to True after debugging
+REQUEST_DELAY = 2
 MIN_START_DATE = "2024-01-01"
 TRACKER_REPO = "AutonomiCommunityProjectTracker"
 
 def parse_args():
-    """Parse command line arguments"""
-    parser = argparse.ArgumentParser(description='Track Autonomi-related GitHub projects')
+    parser = argparse.ArgumentParser()
     parser.add_argument('--recent', action='store_true',
                       help='Only show projects updated in the last week')
     parser.add_argument('--debug', action='store_true',
                       help='Show debug information')
     return parser.parse_args()
 
-def safe_request(url, params=None, retry=0):
-    """Robust API request handler with error suppression"""
-    time.sleep(REQUEST_DELAY)
-    try:
-        response = requests.get(url, headers=HEADERS, params=params)
-        if args.debug:
-            print(f"DEBUG: Request to {url.split('?')[0]} - Status: {response.status_code}")
-            if response.status_code != 200:
-                print(f"DEBUG: Response: {response.text[:200]}")
-        response.raise_for_status()
-        return response.json()
-    except Exception as e:
-        if retry < MAX_RETRIES:
-            time.sleep(5 * (retry + 1))
-            return safe_request(url, params, retry + 1)
-        if not SUPPRESS_ERRORS:
-            print(f"⚠️ API error ({response.status_code if 'response' in locals() else 'N/A'}): {str(e)[:100]}...")
-        return None
-
-def build_search_queries(args):
-    """Generate comprehensive search queries"""
-    search_terms = [
-        'autonomi.com',
-        'autonomi network',
-        ' autonomi ',
+def search_repositories(args):
+    """Search for exact 'Autonomi' matches in description"""
+    exact_phrases = [
+        '"Autonomi"',  # Exact phrase match
+        '"autonomi"',
+        '"Autonomi Network"',
+        '"autonomi network"',
+        '"Safe Network"',
+        '"safe network"',
+        '"maidsafe"'
     ]
     
-    search_fields = ['name', 'description', 'readme']#, 'topics']
-    queries = []
+    if args.recent:
+        last_week = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
+        date_filter = f" updated:>{last_week}"
+    else:
+        date_filter = ""
     
-    for term in search_terms:
-        for field in search_fields:
-            query = f'{term} in:{field}'
-            if args.recent:
-                last_week = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
-                query += f' created:>{MIN_START_DATE} updated:>{last_week}'
-            else:
-                query += f' created:>{MIN_START_DATE}'
-            queries.append(query)
+    repos = []
+    for phrase in exact_phrases:
+        query = f"{phrase} in:description created:>{MIN_START_DATE}{date_filter}"
+        try:
+            response = requests.get(
+                GITHUB_API_URL,
+                headers=HEADERS,
+                params={
+                    'q': query,
+                    'sort': 'updated',
+                    'order': 'desc',
+                    'per_page': 100
+                }
+            )
+            response.raise_for_status()
+            repos.extend(response.json().get('items', []))
+            
+            if args.debug:
+                print(f"DEBUG: Search '{query}' found {len(response.json().get('items', []))} results")
+        except Exception as e:
+            if args.debug:
+                print(f"DEBUG: Error searching '{query}': {str(e)}")
+            continue
     
     # Always include the tracker itself
-    queries.append(f'{TRACKER_REPO} in:name')
-    return queries
-
-def search_repositories(args):
-    """Search GitHub for Autonomi-related repositories"""
-    queries = build_search_queries(args)
-    repos = []
-    
-    for query in queries:
+    tracker_query = f"{TRACKER_REPO} in:name"
+    try:
+        response = requests.get(
+            GITHUB_API_URL,
+            headers=HEADERS,
+            params={
+                'q': tracker_query,
+                'per_page': 1
+            }
+        )
+        response.raise_for_status()
+        if response.json().get('items'):
+            repos.extend(response.json().get('items'))
+    except Exception as e:
         if args.debug:
-            print(f"DEBUG: Executing query: {query[:80]}...")
-        
-        data = safe_request(GITHUB_API_URL, {
-            'q': query,
-            'sort': 'updated',
-            'order': 'desc',
-            'per_page': 100
-        })
-        
-        if data and 'items' in data:
-            if args.debug:
-                print(f"DEBUG: Found {len(data['items'])} results for query")
-            
-            for item in data['items']:
-                if 'detected_terms' not in item:
-                    item['detected_terms'] = defaultdict(set)
-                item['detected_terms']['Autonomi'].add(query.split()[0])
-            repos.extend(data['items'])
+            print(f"DEBUG: Error searching tracker: {str(e)}")
     
     return repos
 
-def generate_daily_report(repositories, args):
-    """Generate daily report with all projects"""
-    unique_repos = {}
-    for repo in repositories:
-        if not isinstance(repo, dict):
-            continue
-            
-        # Always include the tracker project
-        if TRACKER_REPO.lower() in repo.get('full_name', '').lower():
-            unique_repos[repo['html_url']] = repo
-            continue
-            
-        # Apply date filters to other projects
-        try:
-            created_at = datetime.strptime(repo['created_at'], '%Y-%m-%dT%H:%M:%SZ')
-            if created_at < datetime.strptime(MIN_START_DATE, '%Y-%m-%d'):
-                continue
-        except:
-            continue
-            
-        if repo.get('html_url') in unique_repos:
-            continue
-            
-        # Ensure all required fields exist
-        repo.setdefault('full_name', 'Unknown')
-        repo.setdefault('html_url', '#')
-        repo.setdefault('description', '')
-        repo.setdefault('updated_at', '1970-01-01')
-        repo.setdefault('created_at', MIN_START_DATE)
-        repo.setdefault('stargazers_count', 0)
-        repo.setdefault('detected_terms', defaultdict(set))
-        
-        unique_repos[repo['html_url']] = repo
-    
-    date_filters = f"Created after {MIN_START_DATE}"
-    if args.recent:
-        date_filters += " and updated in last week"
-    
+def is_autonomi_project(repo):
+    """Strict verification of Autonomi references"""
+    description = repo.get('description', '').lower()
+    return any(
+        re.search(rf'\b{term}\b', description)
+        for term in ['autonomi', 'safe network', 'maidsafe']
+    )
+
+def generate_report(repos, args):
+    """Generate filtered report with strict matching"""
     markdown = f"""# Autonomi Community Project Tracker
-### ({date_filters})
+### (Created after {MIN_START_DATE}{' and updated in last week' if args.recent else ''})
 
-| Repository | Description | Created | Updated | Stars | References |
-|------------|-------------|---------|---------|-------|------------|
+| Repository | Description | Updated | Stars |
+|------------|-------------|---------|-------|
 """
-    for repo in sorted(unique_repos.values(), key=lambda x: x['updated_at'], reverse=True):
-        refs = set()
-        if 'autonomi.com' in (repo.get('html_url') or '').lower():
-            refs.add('URL')
-        if 'autonomi' in (repo.get('description') or '').lower():
-            refs.add('Description')
-        if 'autonomi' in [t.lower() for t in repo.get('topics', [])]:
-            refs.add('Topic')
-        
-        desc = (repo['description'] or '')[:100]
-        desc += '...' if len(repo['description'] or '') > 100 else ''
-        
-        markdown += f"| [{repo['full_name']}]({repo['html_url']}) | {desc} | {repo['created_at'][:10]} | {repo['updated_at'][:10]} | {repo['stargazers_count']} | {', '.join(sorted(refs)) or 'Content'} |\n"
-    
-    return markdown
-
-def generate_weekly_report(repositories):
-    """Generate weekly report of recently updated projects"""
-    one_week_ago = datetime.now() - timedelta(days=7)
-    
-    weekly_repos = []
-    for repo in repositories:
-        if not isinstance(repo, dict):
-            continue
-            
-        try:
-            # Safely get dates with defaults
-            updated_at_str = repo.get('updated_at', '')
-            created_at_str = repo.get('created_at', '')
-            
-            if not updated_at_str or not created_at_str:
-                continue
-                
-            updated_at = datetime.strptime(updated_at_str, '%Y-%m-%dT%H:%M:%SZ')
-            created_at = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%SZ')
-            
-            # Always include the tracker project
-            if TRACKER_REPO.lower() in repo.get('full_name', '').lower():
-                weekly_repos.append(repo)
-                continue
-                
-            if updated_at >= one_week_ago:
-                weekly_repos.append(repo)
-        except (ValueError, TypeError) as e:
+    count = 0
+    for repo in repos:
+        if not is_autonomi_project(repo):
             if args.debug:
-                print(f"DEBUG: Skipping repo due to date parsing error: {str(e)}")
+                print(f"DEBUG: Skipping {repo['full_name']} - no Autonomi reference")
             continue
-    
-    markdown = """# Autonomi Weekly Update Report
-### (Projects updated in the last 7 days)
-
-| Repository | Description | Updated | Stars | Changes |
-|------------|-------------|---------|-------|---------|
-"""
-    for repo in weekly_repos:
-        try:
-            # Safely get all required fields with defaults
-            full_name = repo.get('full_name', 'Unknown')
-            html_url = repo.get('html_url', '#')
-            description = repo.get('description', '')[:100]
-            updated_at = repo.get('updated_at', '')[:10]
-            stars = repo.get('stargazers_count', 0)
             
-            created_at = datetime.strptime(repo.get('created_at', ''), '%Y-%m-%dT%H:%M:%SZ')
-            changes = "New project" if created_at >= one_week_ago else "Updated"
-            
-            markdown += f"""| [{full_name}]({html_url}) | {description}{'...' if len(description) >= 100 else ''} | {updated_at} | {stars} | {changes} |
+        description = repo.get('description', '')
+        markdown += f"""| [{repo['full_name']}]({repo['html_url']}) | {description} | {repo['updated_at'][:10]} | {repo['stargazers_count']} |
 """
-        except Exception as e:
-            if args.debug:
-                print(f"DEBUG: Error processing repo {repo.get('html_url', 'unknown')}: {str(e)}")
-            continue
+        count += 1
     
-    return markdown, len(weekly_repos)
+    if count == 0:
+        markdown += "| No matching projects found | | | |\n"
+    
+    return markdown, count
 
 def main():
-    global args
     args = parse_args()
-    print("🚀 Starting Autonomi Community Project Tracker...")
-    print(f"⏳ Filtering projects created after {MIN_START_DATE}")
-    if args.recent:
-        print("⏳ Only showing projects updated in the last week")
-    
+    print("🚀 Starting precise Autonomi tracker...")
     repos = search_repositories(args)
-    print(f"✅ Found {len(repos)} matching repositories")
+    report, count = generate_report(repos, args)
     
-    if args.debug:
-        print("\nDEBUG: Sample repositories found:")
-        for repo in repos[:min(5, len(repos))]:
-            print(f"- {repo['full_name']} (Updated: {repo['updated_at']}, Created: {repo['created_at']})")
-    
-    # Generate both reports
-    daily_report = generate_daily_report(repos, args)
-    weekly_report, weekly_count = generate_weekly_report(repos)
-    
-    # Save both files
     os.makedirs('docs', exist_ok=True)
     with open('docs/index.md', 'w', encoding='utf-8') as f:
-        f.write(daily_report)
-    with open('docs/weekly.md', 'w', encoding='utf-8') as f:
-        f.write(weekly_report)
+        f.write(report)
     
-    print(f"📊 Weekly report: {weekly_count} updated projects")
-    print("📄 Reports saved to docs/index.md and docs/weekly.md")
+    print(f"✅ Found {count} relevant repositories")
+    print("📄 Report saved to docs/index.md")
 
 if __name__ == "__main__":
     main()
