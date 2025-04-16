@@ -3,8 +3,9 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-14 | 1 |
-| [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-04-14 | 8 |
+| [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
+| [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-04-15 | 8 |
+| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-15 | 1 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-04-14 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [happybeing/awe](https://github.com/happybeing/awe) | A Website Publisher/Browser for Autonomi (demo) | 2025-04-13 | 8 |
@@ -29,8 +30,9 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-14 | 1 |
-| [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-04-14 | 8 |
+| [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
+| [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-04-15 | 8 |
+| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-15 | 1 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-04-14 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [happybeing/awe](https://github.com/happybeing/awe) | A Website Publisher/Browser for Autonomi (demo) | 2025-04-13 | 8 |
@@ -55,7 +57,7 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-14 | 1 |
+| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-15 | 1 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2025-04-12 | 3 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-04-14 | 0 |
@@ -66,7 +68,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-14 | 1 |
+| [Champii/MutAnt](https://github.com/Champii/MutAnt) | Decentralized Mutable Key/Value Storage over the Autonomi Network | 2025-04-15 | 1 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2025-04-12 | 3 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-04-14 | 0 |
@@ -77,7 +79,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-04-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-04-15 | 1 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
 | [osmancan23/ChatFlow](https://github.com/osmancan23/ChatFlow) | 🚀 Modern messaging app showcasing Flutter clean architecture, type-safe network layer & real-time features with Firebase | 2025-01-26 | 0 |
 | [TosiaCh/AlgorithmsAndDataStructures](https://github.com/TosiaCh/AlgorithmsAndDataStructures) | This repository contains three projects: a transport path finder to calculate the shortest routes in a transport network, a library manager for books, movies, and music, and a graph-based safe network solver to break cycles in a network of safes. | 2025-01-13 | 0 |
@@ -86,7 +88,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-04-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-04-15 | 1 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
 | [osmancan23/ChatFlow](https://github.com/osmancan23/ChatFlow) | 🚀 Modern messaging app showcasing Flutter clean architecture, type-safe network layer & real-time features with Firebase | 2025-01-26 | 0 |
 | [TosiaCh/AlgorithmsAndDataStructures](https://github.com/TosiaCh/AlgorithmsAndDataStructures) | This repository contains three projects: a transport path finder to calculate the shortest routes in a transport network, a library manager for books, movies, and music, and a graph-based safe network solver to break cycles in a network of safes. | 2025-01-13 | 0 |
@@ -96,4 +98,4 @@
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-04-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-04-15 | 1 |
