@@ -1,0 +1,42 @@
+name: Repository Tracker
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual triggering
+
+jobs:
+  track-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch repository data
+        id: search-repos
+        run: |
+          # Query GitHub API for matching repos (updated in last 30 days)
+          QUERY='Autonomi+in:description,readme+SAFE+Network+in:description,readme+pushed:>$(date -d "30 days ago" +%Y-%m-%d)'
+          REPOS_JSON=$(curl -s \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/search/repositories?q=$QUERY&sort=updated&order=desc")
+
+          # Process JSON into a Markdown table
+          echo "$REPOS_JSON" | jq -r '
+            ["Repo", "Description", "⭐ Stars", "Last Updated"],
+            ["----", "-----------", "---------", "-------------"],
+            (.items[] | [
+              "[" + .full_name + "](" + .html_url + ")",
+              .description // "N/A" | sub("\n"; " ") | .[0:100] + "...",
+              .stargazers_count,
+              .pushed_at | fromdate | strftime("%Y-%m-%d")
+            ])
+          | @tsv' | column -t -s $'\t' > AUTONOMI_SAFE_REPOS.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add AUTONOMI_SAFE_REPOS.md
+          git commit -m "Update Autonomi/SAFE Network repo list"
+          git push
