@@ -1,0 +1,5 @@
+PyGithub==2.3.0
+python-dotenv==1.0.1
+pytest==8.1.1
+pytest-cov==6.1.1
+python-dateutil==2.9.0.post0
