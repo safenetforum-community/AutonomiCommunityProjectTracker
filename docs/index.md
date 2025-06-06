@@ -3,9 +3,10 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-04 | 0 |
-| [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-06-04 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-02 | 3 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-05 | 3 |
+| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-05 | 1 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-05 | 0 |
+| [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-06-05 | 0 |
 | [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-06-03 | 9 |
 | [happybeing/awe](https://github.com/happybeing/awe) | A Website Publisher/Browser for Autonomi (demo) | 2025-06-02 | 8 |
 | [happybeing/dweb-app-fileman](https://github.com/happybeing/dweb-app-fileman) | Fileman - a file manager (as a dynamic decentralised web app) for Autonomi | 2025-06-02 | 1 |
@@ -24,7 +25,6 @@
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-05-10 | 0 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-05-06 | 0 |
 | [JAMSplayer/safe](https://github.com/JAMSplayer/safe) | High level API layer for Safenet / Autonomi | 2025-05-10 | 6 |
-| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-05-05 | 0 |
 | [rrauch/autonomi_testnet](https://github.com/rrauch/autonomi_testnet) | Autonomi  Local Dev Testnet Docker Image | 2025-05-05 | 0 |
 | [SafeMedia/safebox-example-webpage](https://github.com/SafeMedia/safebox-example-webpage) | Example webpage to showcase SafeBox client + Autonomi browser extension | 2025-05-04 | 0 |
 | [ambled/atr](https://github.com/ambled/atr) | Autonomi Transaction Reporter | 2025-05-03 | 0 |
@@ -46,9 +46,10 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-04 | 0 |
-| [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-06-04 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-02 | 3 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-05 | 3 |
+| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-05 | 1 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-05 | 0 |
+| [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-06-05 | 0 |
 | [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-06-03 | 9 |
 | [happybeing/awe](https://github.com/happybeing/awe) | A Website Publisher/Browser for Autonomi (demo) | 2025-06-02 | 8 |
 | [happybeing/dweb-app-fileman](https://github.com/happybeing/dweb-app-fileman) | Fileman - a file manager (as a dynamic decentralised web app) for Autonomi | 2025-06-02 | 1 |
@@ -67,7 +68,6 @@
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-05-10 | 0 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-05-06 | 0 |
 | [JAMSplayer/safe](https://github.com/JAMSplayer/safe) | High level API layer for Safenet / Autonomi | 2025-05-10 | 6 |
-| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-05-05 | 0 |
 | [rrauch/autonomi_testnet](https://github.com/rrauch/autonomi_testnet) | Autonomi  Local Dev Testnet Docker Image | 2025-05-05 | 0 |
 | [SafeMedia/safebox-example-webpage](https://github.com/SafeMedia/safebox-example-webpage) | Example webpage to showcase SafeBox client + Autonomi browser extension | 2025-05-04 | 0 |
 | [ambled/atr](https://github.com/ambled/atr) | Autonomi Transaction Reporter | 2025-05-03 | 0 |
@@ -89,8 +89,9 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-04 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-02 | 3 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-05 | 3 |
+| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-05 | 1 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-05 | 0 |
 | [maidsafe/ant-network-workflow-runner](https://github.com/maidsafe/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-05-30 | 0 |
 | [Champii/Mutant](https://github.com/Champii/Mutant) | Decentralized P2P Storage with Mutable Key/Value over the Autonomi Network | 2025-05-24 | 12 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-05-23 | 0 |
@@ -98,7 +99,6 @@
 | [safenetforum-community/autonomi-extra](https://github.com/safenetforum-community/autonomi-extra) | Useful Rust code for Autonomi network, maintained by community | 2025-05-12 | 2 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-05-11 | 4 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-05-06 | 0 |
-| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-05-05 | 0 |
 | [realrouse/pubant.com](https://github.com/realrouse/pubant.com) | PubAnt is a website that shows you how to create a Website on the Autonomi Network. | 2025-04-29 | 0 |
 | [Madcowe/ant-counter](https://github.com/Madcowe/ant-counter) | A simple counter app that stores it's data on the autonomi network | 2025-04-27 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2025-04-12 | 3 |
@@ -108,8 +108,9 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-04 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-02 | 3 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-06-05 | 3 |
+| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-05 | 1 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-05 | 0 |
 | [maidsafe/ant-network-workflow-runner](https://github.com/maidsafe/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-05-30 | 0 |
 | [Champii/Mutant](https://github.com/Champii/Mutant) | Decentralized P2P Storage with Mutable Key/Value over the Autonomi Network | 2025-05-24 | 12 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-05-23 | 0 |
@@ -117,7 +118,6 @@
 | [safenetforum-community/autonomi-extra](https://github.com/safenetforum-community/autonomi-extra) | Useful Rust code for Autonomi network, maintained by community | 2025-05-12 | 2 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-05-11 | 4 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-05-06 | 0 |
-| [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-05-05 | 0 |
 | [realrouse/pubant.com](https://github.com/realrouse/pubant.com) | PubAnt is a website that shows you how to create a Website on the Autonomi Network. | 2025-04-29 | 0 |
 | [Madcowe/ant-counter](https://github.com/Madcowe/ant-counter) | A simple counter app that stores it's data on the autonomi network | 2025-04-27 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2025-04-12 | 3 |
@@ -127,7 +127,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-04 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-05 | 1 |
 | [vipulbansal/safe_network_image](https://github.com/vipulbansal/safe_network_image) | Safe Network Image Package developed on top of cached network image package. | 2025-06-03 | 0 |
 | [gokul2736/Ghost-Protocol-Manual](https://github.com/gokul2736/Ghost-Protocol-Manual) | “A guide for safe network exploration and anonymity best practices.” | 2025-04-26 | 0 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
@@ -138,7 +138,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-04 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-05 | 1 |
 | [vipulbansal/safe_network_image](https://github.com/vipulbansal/safe_network_image) | Safe Network Image Package developed on top of cached network image package. | 2025-06-03 | 0 |
 | [gokul2736/Ghost-Protocol-Manual](https://github.com/gokul2736/Ghost-Protocol-Manual) | “A guide for safe network exploration and anonymity best practices.” | 2025-04-26 | 0 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
@@ -150,4 +150,4 @@
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-04 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-05 | 1 |
