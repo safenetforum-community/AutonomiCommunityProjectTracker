@@ -3,7 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-20 | 0 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-21 | 0 |
 | [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-06-18 | 10 |
 | [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-15 | 2 |
 | [ambled/atr](https://github.com/ambled/atr) | Autonomi Transaction Reporter | 2025-06-15 | 0 |
@@ -21,6 +21,7 @@
 | [rid-dim/autoprox](https://github.com/rid-dim/autoprox) | simple autonomi http proxy server | 2025-05-22 | 1 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-05-22 | 0 |
 | [safenetforum-community/aips](https://github.com/safenetforum-community/aips) | Autonomi Improvement Proposals | 2025-05-19 | 0 |
+| [maidsafe/evm-smart-contracts](https://github.com/maidsafe/evm-smart-contracts) | All smart contracts used for Autonomi | 2025-06-21 | 0 |
 | [ingegneria-sistemi-software-m/ingegneria-sistemi-software-m-pietro-bertozzi](https://github.com/ingegneria-sistemi-software-m/ingegneria-sistemi-software-m-pietro-bertozzi) | Esame che riguarda lo sviluppo SW cooperativo (SCRUM), progettazione e implementazione incrementale di sistemi distribuiti e IoT (robot DDR autonomi), uso di modelli eseguibili e DSL, gestione di architetture SW, comunicazione componenti distribuiti (TCP, UDP, HTTP, MQTT) e sviluppo su varie piattaforme (Kotlin, Gradle, SpringBoot, Docker e AI) | 2025-05-12 | 1 |
 | [safenetforum-community/autonomi-extra](https://github.com/safenetforum-community/autonomi-extra) | Useful Rust code for Autonomi network, maintained by community | 2025-05-12 | 2 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-05-11 | 4 |
@@ -46,7 +47,7 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-20 | 0 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-21 | 0 |
 | [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-06-18 | 10 |
 | [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-15 | 2 |
 | [ambled/atr](https://github.com/ambled/atr) | Autonomi Transaction Reporter | 2025-06-15 | 0 |
@@ -64,6 +65,7 @@
 | [rid-dim/autoprox](https://github.com/rid-dim/autoprox) | simple autonomi http proxy server | 2025-05-22 | 1 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-05-22 | 0 |
 | [safenetforum-community/aips](https://github.com/safenetforum-community/aips) | Autonomi Improvement Proposals | 2025-05-19 | 0 |
+| [maidsafe/evm-smart-contracts](https://github.com/maidsafe/evm-smart-contracts) | All smart contracts used for Autonomi | 2025-06-21 | 0 |
 | [ingegneria-sistemi-software-m/ingegneria-sistemi-software-m-pietro-bertozzi](https://github.com/ingegneria-sistemi-software-m/ingegneria-sistemi-software-m-pietro-bertozzi) | Esame che riguarda lo sviluppo SW cooperativo (SCRUM), progettazione e implementazione incrementale di sistemi distribuiti e IoT (robot DDR autonomi), uso di modelli eseguibili e DSL, gestione di architetture SW, comunicazione componenti distribuiti (TCP, UDP, HTTP, MQTT) e sviluppo su varie piattaforme (Kotlin, Gradle, SpringBoot, Docker e AI) | 2025-05-12 | 1 |
 | [safenetforum-community/autonomi-extra](https://github.com/safenetforum-community/autonomi-extra) | Useful Rust code for Autonomi network, maintained by community | 2025-05-12 | 2 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-05-11 | 4 |
@@ -89,7 +91,7 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-20 | 0 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-21 | 0 |
 | [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-15 | 2 |
 | [maidsafe/ant-network-workflow-runner](https://github.com/maidsafe/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-06-14 | 0 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-06-13 | 0 |
@@ -108,7 +110,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-20 | 0 |
+| [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-06-21 | 0 |
 | [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-06-15 | 2 |
 | [maidsafe/ant-network-workflow-runner](https://github.com/maidsafe/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-06-14 | 0 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-06-13 | 0 |
@@ -127,7 +129,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-20 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-21 | 1 |
 | [vipulbansal/safe_network_image](https://github.com/vipulbansal/safe_network_image) | Safe Network Image Package developed on top of cached network image package. | 2025-06-03 | 0 |
 | [gokul2736/Ghost-Protocol-Manual](https://github.com/gokul2736/Ghost-Protocol-Manual) | “A guide for safe network exploration and anonymity best practices.” | 2025-04-26 | 0 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
@@ -138,7 +140,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-20 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-21 | 1 |
 | [vipulbansal/safe_network_image](https://github.com/vipulbansal/safe_network_image) | Safe Network Image Package developed on top of cached network image package. | 2025-06-03 | 0 |
 | [gokul2736/Ghost-Protocol-Manual](https://github.com/gokul2736/Ghost-Protocol-Manual) | “A guide for safe network exploration and anonymity best practices.” | 2025-04-26 | 0 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
@@ -150,4 +152,4 @@
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-20 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-06-21 | 1 |
