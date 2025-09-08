@@ -3,7 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-06 | 0 |
+| [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-07 | 0 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-09-05 | 0 |
 | [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-09-04 | 1 |
 | [maidsafe/autonomi_client](https://github.com/maidsafe/autonomi_client) | The Autonomi Client API and ant CLI | 2025-09-04 | 0 |
@@ -59,7 +59,7 @@
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-06 | 0 |
+| [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-07 | 0 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-09-05 | 0 |
 | [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-09-04 | 1 |
 | [maidsafe/autonomi_client](https://github.com/maidsafe/autonomi_client) | The Autonomi Client API and ant CLI | 2025-09-04 | 0 |
@@ -157,7 +157,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-09-06 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-09-07 | 1 |
 | [vipulbansal/safe_network_image](https://github.com/vipulbansal/safe_network_image) | Safe Network Image Package developed on top of cached network image package. | 2025-06-03 | 0 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
 | [osmancan23/ChatFlow](https://github.com/osmancan23/ChatFlow) | 🚀 Modern messaging app showcasing Flutter clean architecture, type-safe network layer & real-time features with Firebase | 2025-01-26 | 0 |
@@ -167,7 +167,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-09-06 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-09-07 | 1 |
 | [vipulbansal/safe_network_image](https://github.com/vipulbansal/safe_network_image) | Safe Network Image Package developed on top of cached network image package. | 2025-06-03 | 0 |
 | [PanktiSP13/BookHub-jetpack-compose-modular-project](https://github.com/PanktiSP13/BookHub-jetpack-compose-modular-project) | Project showcases the use of MVI architecture, Clean Architecture, safe network calls with Retrofit, Hilt for DI. It leverages Kotlin 2.0, latest Android SDK 35, Jetpack Compose with declarative approach, app modularization  & reactive programming with Kotlin Flow. | 2025-01-28 | 0 |
 | [osmancan23/ChatFlow](https://github.com/osmancan23/ChatFlow) | 🚀 Modern messaging app showcasing Flutter clean architecture, type-safe network layer & real-time features with Firebase | 2025-01-26 | 0 |
@@ -178,4 +178,4 @@
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-09-06 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-09-07 | 1 |
