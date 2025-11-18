@@ -3,7 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-11-16 | 0 |
+| [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-11-17 | 0 |
 | [Master-admin-T2/friends-launcher-dweb](https://github.com/Master-admin-T2/friends-launcher-dweb) | A launcher for Autonomi dweb local server which opens the Friends messenger app | 2025-11-16 | 0 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2025-11-14 | 2 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
@@ -68,7 +68,7 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-11-16 | 0 |
+| [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-11-17 | 0 |
 | [Master-admin-T2/friends-launcher-dweb](https://github.com/Master-admin-T2/friends-launcher-dweb) | A launcher for Autonomi dweb local server which opens the Friends messenger app | 2025-11-16 | 0 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2025-11-14 | 2 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
@@ -177,8 +177,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-11-16 | 1 |
-| [guardsarm/rust-network-scanner](https://github.com/guardsarm/rust-network-scanner) | Memory-safe network security scanner for vulnerability assessment | 2025-11-12 | 0 |
+| [guardsarm/rust-network-scanner](https://github.com/guardsarm/rust-network-scanner) | Memory-safe network security scanner for vulnerability assessment | 2025-11-18 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-11-17 | 1 |
 | [HariYengantiwa/PRODIGY_CS_05](https://github.com/HariYengantiwa/PRODIGY_CS_05) | Educational Packet Analyzer — parses user-supplied pcap files and summarizes packets (timestamp, src/dst IP & ports, protocol, length) for safe network learning. Runs locally, shows small payload previews, and emphasizes ethical/legal capture — for classrooms, labs, and forensic practice only. | 2025-10-25 | 0 |
 | [j3ktechmarketing-svg/J3K-Technologies-Ceiling-and-Wall-Cable-Removal-Installation-Partner-Georgia](https://github.com/j3ktechmarketing-svg/J3K-Technologies-Ceiling-and-Wall-Cable-Removal-Installation-Partner-Georgia) | J3K Technologies offers professional abandoned cable removal, ceiling and wall cable cleanup, and old cable disposal services across Georgia. Trusted Service Provider, Installation Partner, and Contractor for organized, safe network environments. | 2025-10-15 | 0 |
 | [Aleff5/network-scanner](https://github.com/Aleff5/network-scanner) | Simple and safe network scanner with Python. | 2025-09-15 | 0 |
@@ -191,8 +191,8 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-11-16 | 1 |
-| [guardsarm/rust-network-scanner](https://github.com/guardsarm/rust-network-scanner) | Memory-safe network security scanner for vulnerability assessment | 2025-11-12 | 0 |
+| [guardsarm/rust-network-scanner](https://github.com/guardsarm/rust-network-scanner) | Memory-safe network security scanner for vulnerability assessment | 2025-11-18 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-11-17 | 1 |
 | [HariYengantiwa/PRODIGY_CS_05](https://github.com/HariYengantiwa/PRODIGY_CS_05) | Educational Packet Analyzer — parses user-supplied pcap files and summarizes packets (timestamp, src/dst IP & ports, protocol, length) for safe network learning. Runs locally, shows small payload previews, and emphasizes ethical/legal capture — for classrooms, labs, and forensic practice only. | 2025-10-25 | 0 |
 | [j3ktechmarketing-svg/J3K-Technologies-Ceiling-and-Wall-Cable-Removal-Installation-Partner-Georgia](https://github.com/j3ktechmarketing-svg/J3K-Technologies-Ceiling-and-Wall-Cable-Removal-Installation-Partner-Georgia) | J3K Technologies offers professional abandoned cable removal, ceiling and wall cable cleanup, and old cable disposal services across Georgia. Trusted Service Provider, Installation Partner, and Contractor for organized, safe network environments. | 2025-10-15 | 0 |
 | [Aleff5/network-scanner](https://github.com/Aleff5/network-scanner) | Simple and safe network scanner with Python. | 2025-09-15 | 0 |
@@ -207,4 +207,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-11-16 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-11-17 | 1 |
