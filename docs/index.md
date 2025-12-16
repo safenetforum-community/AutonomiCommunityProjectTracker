@@ -3,10 +3,11 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-15 | 1 |
+| [viperhack89/LOGI-DRONE](https://github.com/viperhack89/LOGI-DRONE) | Droni a sciame per  rifornimenti rapidi, sicuri e con minima esposizione delle unità operative sul campo attraverso una flotta di droni autonomi. | 2025-12-15 | 0 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-12-15 | 0 |
+| [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2025-12-15 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-12-12 | 4 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-10 | 1 |
-| [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2025-12-09 | 0 |
 | [petreleon/Google-Antigravity-Tutorial-Ro](https://github.com/petreleon/Google-Antigravity-Tutorial-Ro) | Ghid complet în limba română pentru Google Antigravity - noul IDE "agent-first" powered by Gemini 3. Învață să construiești aplicații folosind agenți autonomi, modul Plan vs Fast și automatizarea browser-ului. | 2025-12-09 | 0 |
 | [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2025-12-05 | 0 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2025-12-05 | 2 |
@@ -72,10 +73,11 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-15 | 1 |
+| [viperhack89/LOGI-DRONE](https://github.com/viperhack89/LOGI-DRONE) | Droni a sciame per  rifornimenti rapidi, sicuri e con minima esposizione delle unità operative sul campo attraverso una flotta di droni autonomi. | 2025-12-15 | 0 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-12-15 | 0 |
+| [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2025-12-15 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-12-12 | 4 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-10 | 1 |
-| [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2025-12-09 | 0 |
 | [petreleon/Google-Antigravity-Tutorial-Ro](https://github.com/petreleon/Google-Antigravity-Tutorial-Ro) | Ghid complet în limba română pentru Google Antigravity - noul IDE "agent-first" powered by Gemini 3. Învață să construiești aplicații folosind agenți autonomi, modul Plan vs Fast și automatizarea browser-ului. | 2025-12-09 | 0 |
 | [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2025-12-05 | 0 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2025-12-05 | 2 |
@@ -141,8 +143,8 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-15 | 1 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-12-12 | 4 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-10 | 1 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-11-05 | 0 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
@@ -164,8 +166,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-15 | 1 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-12-12 | 4 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-10 | 1 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-11-05 | 0 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
@@ -187,8 +189,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-14 | 1 |
-| [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-13 | 2 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-15 | 1 |
+| [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-15 | 3 |
 | [formysister/express-safe-gateway](https://github.com/formysister/express-safe-gateway) | Express.js middleware plugin to establish safe network without HTTPS. | 2025-12-11 | 0 |
 | [sarthaksha9709/cyber-security-toolkit](https://github.com/sarthaksha9709/cyber-security-toolkit) | 🔐 Cyber Security Toolkit is a powerful, beginner-friendly & ethical collection of cybersecurity tools designed for  auditing, and strengthening system security.  🛡️ This toolkit includes password auditors, log analyzers, config checkers, and safe network discovery tools — all created for education, defensive security, and hands-on practice | 2025-12-06 | 0 |
 | [davidhnna/Nmap-Portscanner-Python-Script](https://github.com/davidhnna/Nmap-Portscanner-Python-Script) | Developed a Python-based port scanner using the python-nmap library to automate safe network reconnaissance tasks commonly used in defensive security and system auditing. | 2025-12-03 | 0 |
@@ -204,8 +206,8 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-14 | 1 |
-| [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-13 | 2 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-15 | 1 |
+| [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-15 | 3 |
 | [formysister/express-safe-gateway](https://github.com/formysister/express-safe-gateway) | Express.js middleware plugin to establish safe network without HTTPS. | 2025-12-11 | 0 |
 | [sarthaksha9709/cyber-security-toolkit](https://github.com/sarthaksha9709/cyber-security-toolkit) | 🔐 Cyber Security Toolkit is a powerful, beginner-friendly & ethical collection of cybersecurity tools designed for  auditing, and strengthening system security.  🛡️ This toolkit includes password auditors, log analyzers, config checkers, and safe network discovery tools — all created for education, defensive security, and hands-on practice | 2025-12-06 | 0 |
 | [davidhnna/Nmap-Portscanner-Python-Script](https://github.com/davidhnna/Nmap-Portscanner-Python-Script) | Developed a Python-based port scanner using the python-nmap library to automate safe network reconnaissance tasks commonly used in defensive security and system auditing. | 2025-12-03 | 0 |
@@ -223,4 +225,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-15 | 1 |
