@@ -3,6 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-12-30 | 4 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-12-29 | 0 |
 | [JaenRobert/AESI](https://github.com/JaenRobert/AESI) | ÆSI: Den Rekursiva Spiralen. Ett protokoll för empatisk autonomi och multi-agent alignment, skapat genom en unik allians mellan åtta AI-modeller. December 2025. | 2025-12-25 | 0 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2025-12-24 | 2 |
@@ -16,7 +17,6 @@
 | [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-11-27 | 13 |
 | [maidsafe/github_actions](https://github.com/maidsafe/github_actions) | Useful github actions for Autonomi | 2025-11-19 | 0 |
 | [Master-admin-T2/friends-launcher-dweb](https://github.com/Master-admin-T2/friends-launcher-dweb) | A launcher for Autonomi dweb local server which opens the Friends messenger app | 2025-11-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
 | [willief/discord-message-analyzer](https://github.com/willief/discord-message-analyzer) | A Python tool for analyzing Discord message exports to track user activity and interactions in the Autonomi community and beyond | 2025-10-20 | 1 |
 | [ambled/fakenode](https://github.com/ambled/fakenode) | Fake autonomi node simulator | 2025-10-16 | 0 |
 | [finanza23/Hourly](https://github.com/finanza23/Hourly) | Piattaforma per la gestione delle presenze e delle ore di lavoro. Permette timbratura digitale, calcolo automatico dello stipendio, gestione di turni, ferie e straordinari. Progettata per aziende e lavoratori autonomi, per monitorare il tempo lavorato in modo semplice, trasparente ed efficiente. | 2025-10-13 | 1 |
@@ -74,6 +74,7 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-12-30 | 4 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-12-29 | 0 |
 | [JaenRobert/AESI](https://github.com/JaenRobert/AESI) | ÆSI: Den Rekursiva Spiralen. Ett protokoll för empatisk autonomi och multi-agent alignment, skapat genom en unik allians mellan åtta AI-modeller. December 2025. | 2025-12-25 | 0 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2025-12-24 | 2 |
@@ -87,7 +88,6 @@
 | [happybeing/dweb](https://github.com/happybeing/dweb) | Publish and view websites on the decentralised web of the Autonomi peer-to-peer network | 2025-11-27 | 13 |
 | [maidsafe/github_actions](https://github.com/maidsafe/github_actions) | Useful github actions for Autonomi | 2025-11-19 | 0 |
 | [Master-admin-T2/friends-launcher-dweb](https://github.com/Master-admin-T2/friends-launcher-dweb) | A launcher for Autonomi dweb local server which opens the Friends messenger app | 2025-11-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
 | [willief/discord-message-analyzer](https://github.com/willief/discord-message-analyzer) | A Python tool for analyzing Discord message exports to track user activity and interactions in the Autonomi community and beyond | 2025-10-20 | 1 |
 | [ambled/fakenode](https://github.com/ambled/fakenode) | Fake autonomi node simulator | 2025-10-16 | 0 |
 | [finanza23/Hourly](https://github.com/finanza23/Hourly) | Piattaforma per la gestione delle presenze e delle ore di lavoro. Permette timbratura digitale, calcolo automatico dello stipendio, gestione di turni, ferie e straordinari. Progettata per aziende e lavoratori autonomi, per monitorare il tempo lavorato in modo semplice, trasparente ed efficiente. | 2025-10-13 | 1 |
@@ -145,10 +145,10 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-12-30 | 4 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-12-19 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-12-18 | 4 |
 | [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-16 | 1 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
 | [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-09-14 | 1 |
 | [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-09-26 | 5 |
@@ -168,10 +168,10 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-12-30 | 4 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-12-19 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2025-12-18 | 4 |
 | [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2025-12-16 | 1 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-11-14 | 4 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
 | [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-09-14 | 1 |
 | [SafeMedia/autonomi-chrome-extension](https://github.com/SafeMedia/autonomi-chrome-extension) | A chrome extension for the Autonomi network | 2025-09-26 | 5 |
@@ -191,8 +191,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-30 | 1 |
 | [paybilldev/terraform-aws-canary-infra](https://github.com/paybilldev/terraform-aws-canary-infra) | Provisions a secure AWS environment for Synthetic Monitoring Canaries, including an encrypted S3 bucket for reports with versioning and lifecycle policies, an IAM role with necessary permissions, and security groups for safe network access. It automates Canary setup for observability and monitoring in a compliant reusable way | 2025-12-29 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-29 | 1 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2025-12-21 | 0 |
 | [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-15 | 3 |
 | [formysister/express-safe-gateway](https://github.com/formysister/express-safe-gateway) | Express.js middleware plugin to establish safe network without HTTPS. | 2025-12-11 | 0 |
@@ -210,8 +210,8 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-30 | 1 |
 | [paybilldev/terraform-aws-canary-infra](https://github.com/paybilldev/terraform-aws-canary-infra) | Provisions a secure AWS environment for Synthetic Monitoring Canaries, including an encrypted S3 bucket for reports with versioning and lifecycle policies, an IAM role with necessary permissions, and security groups for safe network access. It automates Canary setup for observability and monitoring in a compliant reusable way | 2025-12-29 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-29 | 1 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2025-12-21 | 0 |
 | [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-15 | 3 |
 | [formysister/express-safe-gateway](https://github.com/formysister/express-safe-gateway) | Express.js middleware plugin to establish safe network without HTTPS. | 2025-12-11 | 0 |
@@ -231,4 +231,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-29 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2025-12-30 | 1 |
