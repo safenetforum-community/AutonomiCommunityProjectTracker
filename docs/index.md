@@ -3,7 +3,8 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [grebnief/dominion](https://github.com/grebnief/dominion) | Sovereign Identity Primitive for Autonomi | 2026-01-02 | 0 |
+| [grebnief/dominion](https://github.com/grebnief/dominion) | Sovereign Identity Primitive for Autonomi | 2026-01-04 | 0 |
+| [joshfeinberg/dominion](https://github.com/joshfeinberg/dominion) | Sovereign Identity Primitive for Autonomi | 2026-01-04 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-12-31 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-12-30 | 4 |
@@ -76,7 +77,8 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [grebnief/dominion](https://github.com/grebnief/dominion) | Sovereign Identity Primitive for Autonomi | 2026-01-02 | 0 |
+| [grebnief/dominion](https://github.com/grebnief/dominion) | Sovereign Identity Primitive for Autonomi | 2026-01-04 | 0 |
+| [joshfeinberg/dominion](https://github.com/joshfeinberg/dominion) | Sovereign Identity Primitive for Autonomi | 2026-01-04 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2025-12-31 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2025-12-30 | 4 |
@@ -197,7 +199,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-01-02 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-01-03 | 1 |
 | [paybilldev/terraform-aws-canary-infra](https://github.com/paybilldev/terraform-aws-canary-infra) | Provisions a secure AWS environment for Synthetic Monitoring Canaries, including an encrypted S3 bucket for reports with versioning and lifecycle policies, an IAM role with necessary permissions, and security groups for safe network access. It automates Canary setup for observability and monitoring in a compliant reusable way | 2026-01-01 | 0 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2025-12-21 | 0 |
 | [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-15 | 3 |
@@ -216,7 +218,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-01-02 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-01-03 | 1 |
 | [paybilldev/terraform-aws-canary-infra](https://github.com/paybilldev/terraform-aws-canary-infra) | Provisions a secure AWS environment for Synthetic Monitoring Canaries, including an encrypted S3 bucket for reports with versioning and lifecycle policies, an IAM role with necessary permissions, and security groups for safe network access. It automates Canary setup for observability and monitoring in a compliant reusable way | 2026-01-01 | 0 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2025-12-21 | 0 |
 | [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2025-12-15 | 3 |
@@ -237,4 +239,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-01-02 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-01-03 | 1 |
