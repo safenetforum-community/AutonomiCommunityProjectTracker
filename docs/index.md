@@ -3,7 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-01-31 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-02-02 | 5 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-01-31 | 3 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-01-30 | 2 |
 | [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-01-26 | 0 |
@@ -77,7 +77,7 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-01-31 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-02-02 | 5 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-01-31 | 3 |
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-01-30 | 2 |
 | [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-01-26 | 0 |
@@ -151,7 +151,7 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-01-31 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-02-02 | 5 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-01-31 | 3 |
 | [Master-admin-T2/node_earnings_tracker](https://github.com/Master-admin-T2/node_earnings_tracker) | Autonomi network node earnings tracker | 2026-01-08 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
@@ -176,7 +176,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-01-31 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-02-02 | 5 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-01-31 | 3 |
 | [Master-admin-T2/node_earnings_tracker](https://github.com/Master-admin-T2/node_earnings_tracker) | Autonomi network node earnings tracker | 2026-01-08 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
@@ -201,7 +201,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-02-01 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-02-02 | 1 |
 | [Chris135798/VPNUPCHECK](https://github.com/Chris135798/VPNUPCHECK) | Checks in regular intervalls if you are still connected via VPN to ensure a safe network connection in unsafe environments. | 2026-01-30 | 0 |
 | [Ade20boss/c-telemetry-protocol](https://github.com/Ade20boss/c-telemetry-protocol) | A low-level binary protocol simulation in C demonstrating struct packing, serialization, and memory-safe network data parsing. | 2026-01-24 | 1 |
 | [B3helit/Safe-networking-transactions](https://github.com/B3helit/Safe-networking-transactions) | Safe network requests and responses using HMAC-SHA512. | 2026-01-20 | 0 |
@@ -224,7 +224,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-02-01 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-02-02 | 1 |
 | [Chris135798/VPNUPCHECK](https://github.com/Chris135798/VPNUPCHECK) | Checks in regular intervalls if you are still connected via VPN to ensure a safe network connection in unsafe environments. | 2026-01-30 | 0 |
 | [Ade20boss/c-telemetry-protocol](https://github.com/Ade20boss/c-telemetry-protocol) | A low-level binary protocol simulation in C demonstrating struct packing, serialization, and memory-safe network data parsing. | 2026-01-24 | 1 |
 | [B3helit/Safe-networking-transactions](https://github.com/B3helit/Safe-networking-transactions) | Safe network requests and responses using HMAC-SHA512. | 2026-01-20 | 0 |
@@ -249,4 +249,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-02-01 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-02-02 | 1 |
