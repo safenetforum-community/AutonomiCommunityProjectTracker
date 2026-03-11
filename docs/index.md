@@ -209,7 +209,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-09 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-10 | 1 |
 | [HQnest/PulseScan](https://github.com/HQnest/PulseScan) | A modular toolkit for safe network diagnostics, system visibility, and workflow automation. | 2026-03-05 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
 | [K-Rutuparna1087/psiphon_smart](https://github.com/K-Rutuparna1087/psiphon_smart) | Smart Psiphon Linux launcher that automates tunnel detection, system proxy configuration, and safe network restoration on exit. Start Psiphon with a single command while avoiding manual proxy setup each session. | 2026-02-18 | 4 |
@@ -233,7 +233,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-09 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-10 | 1 |
 | [HQnest/PulseScan](https://github.com/HQnest/PulseScan) | A modular toolkit for safe network diagnostics, system visibility, and workflow automation. | 2026-03-05 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
 | [K-Rutuparna1087/psiphon_smart](https://github.com/K-Rutuparna1087/psiphon_smart) | Smart Psiphon Linux launcher that automates tunnel detection, system proxy configuration, and safe network restoration on exit. Start Psiphon with a single command while avoiding manual proxy setup each session. | 2026-02-18 | 4 |
@@ -259,4 +259,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-09 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-10 | 1 |
