@@ -32,7 +32,7 @@
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [saifulfaizan/SwarmStrike](https://github.com/saifulfaizan/SwarmStrike) | 💥 Dengan AI autonomi, kriptografi tahan kuantum, C2 berasaskan blockchain, dan kejuruteraan sosial deepfake, sistem ini meniru APT tahap negara. Nilai simulasi: $100M+. Tahap ancaman: APOKALIPTIK. 🛡️🔥 | 2025-09-21 | 0 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
-| [BlueDogg08/Web-Traffic-Simulator](https://github.com/BlueDogg08/Web-Traffic-Simulator) | 🎓 Progetto universitario: simulatore traffico urbano con architettura Java/Node.js, comunicazione WebSocket real-time e interfaccia web responsive per visualizzazione interattiva veicoli autonomi. | 2025-09-18 | 0 |
+| [AlessioAlunni/Web-Traffic-Simulator](https://github.com/AlessioAlunni/Web-Traffic-Simulator) | 🎓 Progetto universitario: simulatore traffico urbano con architettura Java/Node.js, comunicazione WebSocket real-time e interfaccia web responsive per visualizzazione interattiva veicoli autonomi. | 2025-09-18 | 0 |
 | [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-15 | 0 |
 | [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-09-14 | 1 |
 | [Daniel-Schutz/operator](https://github.com/Daniel-Schutz/operator) | Landing page for commercial promotion of Operator by Autonomi | 2025-09-09 | 0 |
@@ -111,7 +111,7 @@
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [saifulfaizan/SwarmStrike](https://github.com/saifulfaizan/SwarmStrike) | 💥 Dengan AI autonomi, kriptografi tahan kuantum, C2 berasaskan blockchain, dan kejuruteraan sosial deepfake, sistem ini meniru APT tahap negara. Nilai simulasi: $100M+. Tahap ancaman: APOKALIPTIK. 🛡️🔥 | 2025-09-21 | 0 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
-| [BlueDogg08/Web-Traffic-Simulator](https://github.com/BlueDogg08/Web-Traffic-Simulator) | 🎓 Progetto universitario: simulatore traffico urbano con architettura Java/Node.js, comunicazione WebSocket real-time e interfaccia web responsive per visualizzazione interattiva veicoli autonomi. | 2025-09-18 | 0 |
+| [AlessioAlunni/Web-Traffic-Simulator](https://github.com/AlessioAlunni/Web-Traffic-Simulator) | 🎓 Progetto universitario: simulatore traffico urbano con architettura Java/Node.js, comunicazione WebSocket real-time e interfaccia web responsive per visualizzazione interattiva veicoli autonomi. | 2025-09-18 | 0 |
 | [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-15 | 0 |
 | [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2025-09-14 | 1 |
 | [Daniel-Schutz/operator](https://github.com/Daniel-Schutz/operator) | Landing page for commercial promotion of Operator by Autonomi | 2025-09-09 | 0 |
@@ -213,7 +213,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-26 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-27 | 1 |
 | [root3315/packet-inspect-safe](https://github.com/root3315/packet-inspect-safe) | memory safe network packet analyzer written in rust | 2026-03-16 | 0 |
 | [root3315/safe-packet-analyzer](https://github.com/root3315/safe-packet-analyzer) | memory safe network packet analyzer written in rust for secure packet inspection | 2026-03-12 | 0 |
 | [HQnest/PulseScan](https://github.com/HQnest/PulseScan) | A modular toolkit for safe network diagnostics, system visibility, and workflow automation. | 2026-03-05 | 0 |
@@ -239,7 +239,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-26 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-27 | 1 |
 | [root3315/packet-inspect-safe](https://github.com/root3315/packet-inspect-safe) | memory safe network packet analyzer written in rust | 2026-03-16 | 0 |
 | [root3315/safe-packet-analyzer](https://github.com/root3315/safe-packet-analyzer) | memory safe network packet analyzer written in rust for secure packet inspection | 2026-03-12 | 0 |
 | [HQnest/PulseScan](https://github.com/HQnest/PulseScan) | A modular toolkit for safe network diagnostics, system visibility, and workflow automation. | 2026-03-05 | 0 |
@@ -267,4 +267,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-26 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-03-27 | 1 |
