@@ -3,13 +3,14 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-15 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-16 | 5 |
+| [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-05-15 | 2 |
+| [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-05-15 | 0 |
+| [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-15 | 0 |
 | [LolloRega/CoreVision-Lidar-Perception-Pipeline](https://github.com/LolloRega/CoreVision-Lidar-Perception-Pipeline) | Pipeline di percezione 3D per veicoli autonomi: elaborazione di dataset KITTI, filtraggio spaziale e segmentazione di oggetti in tempo reale. | 2026-05-14 | 0 |
-| [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-05-14 | 0 |
 | [santoromarco74/agentic](https://github.com/santoromarco74/agentic) | Il modo degli agenti autonomi | 2026-05-14 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-05-13 | 6 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-05-13 | 0 |
-| [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-12 | 0 |
 | [mauro-mura/jentic-blog-examples](https://github.com/mauro-mura/jentic-blog-examples) | Code examples for the {bit Autonomi} blog series on Jentic | 2026-05-09 | 0 |
 | [samakshchhibb/FYP_auditor](https://github.com/samakshchhibb/FYP_auditor) | AUTONOMI auditing app for SME's | 2026-05-01 | 0 |
 | [rosariomoscato/agentic-coding-boilerplate](https://github.com/rosariomoscato/agentic-coding-boilerplate) | Un boilerplate completo per agentic coding con autenticazione, database PostgreSQL, funzionalità di chat AI e componenti UI moderni - perfetto per costruire applicazioni basate sull'intelligenza artificiale e agenti autonomi. | 2026-04-29 | 0 |
@@ -34,7 +35,6 @@
 | [maidsafe/evm-smart-contracts](https://github.com/maidsafe/evm-smart-contracts) | All smart contracts used for Autonomi | 2026-02-27 | 0 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2026-02-18 | 0 |
 | [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2026-02-06 | 0 |
-| [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-01-30 | 2 |
 | [Mijobalic/AI-Market](https://github.com/Mijobalic/AI-Market) | Decentralized inference marketplace for Free and Bound AI on Autonomi | 2026-01-09 | 0 |
 | [Master-admin-T2/node_earnings_tracker](https://github.com/Master-admin-T2/node_earnings_tracker) | Autonomi network node earnings tracker | 2026-01-08 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
@@ -99,13 +99,14 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-15 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-16 | 5 |
+| [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-05-15 | 2 |
+| [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-05-15 | 0 |
+| [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-15 | 0 |
 | [LolloRega/CoreVision-Lidar-Perception-Pipeline](https://github.com/LolloRega/CoreVision-Lidar-Perception-Pipeline) | Pipeline di percezione 3D per veicoli autonomi: elaborazione di dataset KITTI, filtraggio spaziale e segmentazione di oggetti in tempo reale. | 2026-05-14 | 0 |
-| [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-05-14 | 0 |
 | [santoromarco74/agentic](https://github.com/santoromarco74/agentic) | Il modo degli agenti autonomi | 2026-05-14 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-05-13 | 6 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-05-13 | 0 |
-| [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-12 | 0 |
 | [mauro-mura/jentic-blog-examples](https://github.com/mauro-mura/jentic-blog-examples) | Code examples for the {bit Autonomi} blog series on Jentic | 2026-05-09 | 0 |
 | [samakshchhibb/FYP_auditor](https://github.com/samakshchhibb/FYP_auditor) | AUTONOMI auditing app for SME's | 2026-05-01 | 0 |
 | [rosariomoscato/agentic-coding-boilerplate](https://github.com/rosariomoscato/agentic-coding-boilerplate) | Un boilerplate completo per agentic coding con autenticazione, database PostgreSQL, funzionalità di chat AI e componenti UI moderni - perfetto per costruire applicazioni basate sull'intelligenza artificiale e agenti autonomi. | 2026-04-29 | 0 |
@@ -130,7 +131,6 @@
 | [maidsafe/evm-smart-contracts](https://github.com/maidsafe/evm-smart-contracts) | All smart contracts used for Autonomi | 2026-02-27 | 0 |
 | [iweave/weave-node-manager](https://github.com/iweave/weave-node-manager) | Decentralized node management tool for Autonomi | 2026-02-18 | 0 |
 | [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2026-02-06 | 0 |
-| [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-01-30 | 2 |
 | [Mijobalic/AI-Market](https://github.com/Mijobalic/AI-Market) | Decentralized inference marketplace for Free and Bound AI on Autonomi | 2026-01-09 | 0 |
 | [Master-admin-T2/node_earnings_tracker](https://github.com/Master-admin-T2/node_earnings_tracker) | Autonomi network node earnings tracker | 2026-01-08 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
@@ -195,7 +195,7 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-15 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-16 | 5 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-05-13 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-04-21 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-04-19 | 3 |
@@ -223,7 +223,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-15 | 5 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-05-16 | 5 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-05-13 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-04-21 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-04-19 | 3 |
@@ -251,7 +251,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-15 | 1 |
 | [TosiaCh/AlgorithmsAndDataStructures](https://github.com/TosiaCh/AlgorithmsAndDataStructures) | a transport path finder to calculate the shortest routes in a transport network, a library manager for books, movies, and music, and a graph-based safe network solver to break cycles in a network of safes. | 2026-05-09 | 0 |
 | [root3315/packet-inspect-safe](https://github.com/root3315/packet-inspect-safe) | memory safe network packet analyzer written in rust | 2026-03-16 | 0 |
 | [root3315/safe-packet-analyzer](https://github.com/root3315/safe-packet-analyzer) | memory safe network packet analyzer written in rust for secure packet inspection | 2026-03-12 | 0 |
@@ -277,7 +277,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-15 | 1 |
 | [TosiaCh/AlgorithmsAndDataStructures](https://github.com/TosiaCh/AlgorithmsAndDataStructures) | a transport path finder to calculate the shortest routes in a transport network, a library manager for books, movies, and music, and a graph-based safe network solver to break cycles in a network of safes. | 2026-05-09 | 0 |
 | [root3315/packet-inspect-safe](https://github.com/root3315/packet-inspect-safe) | memory safe network packet analyzer written in rust | 2026-03-16 | 0 |
 | [root3315/safe-packet-analyzer](https://github.com/root3315/safe-packet-analyzer) | memory safe network packet analyzer written in rust for secure packet inspection | 2026-03-12 | 0 |
@@ -305,4 +305,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-14 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-15 | 1 |
