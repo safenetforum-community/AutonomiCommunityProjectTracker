@@ -3,8 +3,8 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-05-29 | 7 |
 | [rosariomoscato/agentic-coding-boilerplate](https://github.com/rosariomoscato/agentic-coding-boilerplate) | Un boilerplate completo per agentic coding con autenticazione, database PostgreSQL, funzionalità di chat AI e componenti UI moderni - perfetto per costruire applicazioni basate sull'intelligenza artificiale e agenti autonomi. | 2026-05-28 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-05-28 | 7 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-05-28 | 0 |
 | [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-28 | 0 |
 | [ragionevolonta/matematica-applicata](https://github.com/ragionevolonta/matematica-applicata) | la spesa come strumento per studiare le somme ed essere autonomi | 2026-05-27 | 0 |
@@ -101,8 +101,8 @@
 | [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
 | [SafeMedia/autonomi](https://github.com/SafeMedia/autonomi) | Autonomi Client JS | 2024-10-26 | 0 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-05-29 | 7 |
 | [rosariomoscato/agentic-coding-boilerplate](https://github.com/rosariomoscato/agentic-coding-boilerplate) | Un boilerplate completo per agentic coding con autenticazione, database PostgreSQL, funzionalità di chat AI e componenti UI moderni - perfetto per costruire applicazioni basate sull'intelligenza artificiale e agenti autonomi. | 2026-05-28 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-05-28 | 7 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-05-28 | 0 |
 | [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-28 | 0 |
 | [ragionevolonta/matematica-applicata](https://github.com/ragionevolonta/matematica-applicata) | la spesa come strumento per studiare le somme ed essere autonomi | 2026-05-27 | 0 |
@@ -255,7 +255,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-28 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-29 | 1 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
 | [TosiaCh/AlgorithmsAndDataStructures](https://github.com/TosiaCh/AlgorithmsAndDataStructures) | a transport path finder to calculate the shortest routes in a transport network, a library manager for books, movies, and music, and a graph-based safe network solver to break cycles in a network of safes. | 2026-05-09 | 0 |
 | [root3315/packet-inspect-safe](https://github.com/root3315/packet-inspect-safe) | memory safe network packet analyzer written in rust | 2026-03-16 | 0 |
@@ -281,7 +281,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-28 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-29 | 1 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
 | [TosiaCh/AlgorithmsAndDataStructures](https://github.com/TosiaCh/AlgorithmsAndDataStructures) | a transport path finder to calculate the shortest routes in a transport network, a library manager for books, movies, and music, and a graph-based safe network solver to break cycles in a network of safes. | 2026-05-09 | 0 |
 | [root3315/packet-inspect-safe](https://github.com/root3315/packet-inspect-safe) | memory safe network packet analyzer written in rust | 2026-03-16 | 0 |
@@ -309,4 +309,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-28 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-05-29 | 1 |
