@@ -3,7 +3,8 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-21 | 7 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-22 | 7 |
+| [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-06-18 | 0 |
 | [mauro-mura/jentic-blog-examples](https://github.com/mauro-mura/jentic-blog-examples) | Code examples for the {bit Autonomi} blog series on Jentic | 2026-06-18 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
@@ -102,8 +103,8 @@
 | [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [intercloud/autonomi-sdk](https://github.com/intercloud/autonomi-sdk) | Autonomi client sdk | 2024-11-25 | 1 |
-| [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-21 | 7 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-22 | 7 |
+| [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-06-18 | 0 |
 | [mauro-mura/jentic-blog-examples](https://github.com/mauro-mura/jentic-blog-examples) | Code examples for the {bit Autonomi} blog series on Jentic | 2026-06-18 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
@@ -202,7 +203,7 @@
 | [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [intercloud/autonomi-sdk](https://github.com/intercloud/autonomi-sdk) | Autonomi client sdk | 2024-11-25 | 1 |
-| [intercloud/terraform-provider-autonomi](https://github.com/intercloud/terraform-provider-autonomi) | Terraform provider for Autonomi platform | 2024-10-08 | 1 |
+| [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-06-13 | 5 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-04-21 | 0 |
@@ -231,6 +232,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-06-13 | 5 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-04-21 | 0 |
@@ -259,7 +261,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-21 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-22 | 1 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
@@ -287,7 +289,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-21 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-22 | 1 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
@@ -317,4 +319,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-21 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-22 | 1 |
