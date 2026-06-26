@@ -3,9 +3,10 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-24 | 1 |
+| [JaenRobert/AESI](https://github.com/JaenRobert/AESI) | ÆSI: Den Rekursiva Spiralen. Ett protokoll för empatisk autonomi och multi-agent alignment, skapat genom en unik allians mellan åtta AI-modeller. December 2025. | 2026-06-25 | 0 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-25 | 8 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-25 | 1 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-06-24 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-23 | 7 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [mauro-mura/jentic-blog-examples](https://github.com/mauro-mura/jentic-blog-examples) | Code examples for the {bit Autonomi} blog series on Jentic | 2026-06-18 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
@@ -44,7 +45,6 @@
 | [Mijobalic/AI-Market](https://github.com/Mijobalic/AI-Market) | Decentralized inference marketplace for Free and Bound AI on Autonomi | 2026-01-09 | 0 |
 | [Master-admin-T2/node_earnings_tracker](https://github.com/Master-admin-T2/node_earnings_tracker) | Autonomi network node earnings tracker | 2026-01-08 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
-| [JaenRobert/AESI](https://github.com/JaenRobert/AESI) | ÆSI: Den Rekursiva Spiralen. Ett protokoll för empatisk autonomi och multi-agent alignment, skapat genom en unik allians mellan åtta AI-modeller. December 2025. | 2025-12-25 | 0 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-12-19 | 0 |
 | [ilenia-unida/Sito-web-Portofolio-Automazioni-N8N](https://github.com/ilenia-unida/Sito-web-Portofolio-Automazioni-N8N) | Repository del mio sito web personale che illustra flussi di lavoro complessi creati con n8n e soluzioni AI basate su Google Gemini. Esplora 15+ progetti di Lead Scoring, RAG Chatbot e integrazione di sistemi. Focus: Sistemi Autonomi & Scalabili. | 2025-12-17 | 1 |
 | [petreleon/Google-Antigravity-Tutorial-Ro](https://github.com/petreleon/Google-Antigravity-Tutorial-Ro) | Ghid complet în limba română pentru Google Antigravity - noul IDE "agent-first" powered by Gemini 3. Învață să construiești aplicații folosind agenți autonomi, modul Plan vs Fast și automatizarea browser-ului. | 2026-01-01 | 1 |
@@ -103,9 +103,10 @@
 | [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [intercloud/autonomi-sdk](https://github.com/intercloud/autonomi-sdk) | Autonomi client sdk | 2024-11-25 | 1 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-24 | 1 |
+| [JaenRobert/AESI](https://github.com/JaenRobert/AESI) | ÆSI: Den Rekursiva Spiralen. Ett protokoll för empatisk autonomi och multi-agent alignment, skapat genom en unik allians mellan åtta AI-modeller. December 2025. | 2026-06-25 | 0 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-25 | 8 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-25 | 1 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-06-24 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-23 | 7 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [mauro-mura/jentic-blog-examples](https://github.com/mauro-mura/jentic-blog-examples) | Code examples for the {bit Autonomi} blog series on Jentic | 2026-06-18 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
@@ -144,7 +145,6 @@
 | [Mijobalic/AI-Market](https://github.com/Mijobalic/AI-Market) | Decentralized inference marketplace for Free and Bound AI on Autonomi | 2026-01-09 | 0 |
 | [Master-admin-T2/node_earnings_tracker](https://github.com/Master-admin-T2/node_earnings_tracker) | Autonomi network node earnings tracker | 2026-01-08 | 0 |
 | [markwylde/antns](https://github.com/markwylde/antns) | A decentralized domain name system for the Autonomi network. | 2025-12-31 | 1 |
-| [JaenRobert/AESI](https://github.com/JaenRobert/AESI) | ÆSI: Den Rekursiva Spiralen. Ett protokoll för empatisk autonomi och multi-agent alignment, skapat genom en unik allians mellan åtta AI-modeller. December 2025. | 2025-12-25 | 0 |
 | [grumbach/ant_download](https://github.com/grumbach/ant_download) | Download files from the Autonomi Network | 2025-12-19 | 0 |
 | [ilenia-unida/Sito-web-Portofolio-Automazioni-N8N](https://github.com/ilenia-unida/Sito-web-Portofolio-Automazioni-N8N) | Repository del mio sito web personale che illustra flussi di lavoro complessi creati con n8n e soluzioni AI basate su Google Gemini. Esplora 15+ progetti di Lead Scoring, RAG Chatbot e integrazione di sistemi. Focus: Sistemi Autonomi & Scalabili. | 2025-12-17 | 1 |
 | [petreleon/Google-Antigravity-Tutorial-Ro](https://github.com/petreleon/Google-Antigravity-Tutorial-Ro) | Ghid complet în limba română pentru Google Antigravity - noul IDE "agent-first" powered by Gemini 3. Învață să construiești aplicații folosind agenți autonomi, modul Plan vs Fast și automatizarea browser-ului. | 2026-01-01 | 1 |
@@ -203,7 +203,7 @@
 | [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [intercloud/autonomi-sdk](https://github.com/intercloud/autonomi-sdk) | Autonomi client sdk | 2024-11-25 | 1 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-24 | 1 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-25 | 1 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-06-13 | 5 |
@@ -232,7 +232,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-24 | 1 |
+| [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-25 | 1 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-18 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-06-13 | 5 |
@@ -261,7 +261,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-24 | 1 |
+| [cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2](https://github.com/cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2) | A high-performance, memory-safe network intrusion detection system (NIDS) built entirely in Rust. The engine fuses deep reconstruction anomaly detection with algebraic graph theory to identify complex, low-signal network attacks. | 2026-06-25 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-25 | 1 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
@@ -289,7 +290,8 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-24 | 1 |
+| [cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2](https://github.com/cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2) | A high-performance, memory-safe network intrusion detection system (NIDS) built entirely in Rust. The engine fuses deep reconstruction anomaly detection with algebraic graph theory to identify complex, low-signal network attacks. | 2026-06-25 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-25 | 1 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
@@ -319,4 +321,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-24 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-25 | 1 |
