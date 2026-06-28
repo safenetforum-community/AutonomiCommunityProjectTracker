@@ -3,6 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [Freddy-dev0/SE4AI_Agentic_project](https://github.com/Freddy-dev0/SE4AI_Agentic_project) | Progetto d'esame di "Software Engineering for AI" focalizzato sullo studio empirico del comportamento degli agenti autonomi di coding. | 2026-06-27 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-27 | 8 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-27 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-06-26 | 0 |
@@ -102,7 +103,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
-| [intercloud/autonomi-sdk](https://github.com/intercloud/autonomi-sdk) | Autonomi client sdk | 2024-11-25 | 1 |
+| [Freddy-dev0/SE4AI_Agentic_project](https://github.com/Freddy-dev0/SE4AI_Agentic_project) | Progetto d'esame di "Software Engineering for AI" focalizzato sullo studio empirico del comportamento degli agenti autonomi di coding. | 2026-06-27 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-06-27 | 8 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-27 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-06-26 | 0 |
@@ -202,7 +203,6 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
-| [intercloud/autonomi-sdk](https://github.com/intercloud/autonomi-sdk) | Autonomi client sdk | 2024-11-25 | 1 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-27 | 0 |
 | [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-26 | 1 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
@@ -261,8 +261,9 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-27 | 1 |
 | [cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2](https://github.com/cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2) | A high-performance, memory-safe network intrusion detection system (NIDS) built entirely in Rust. The engine fuses deep reconstruction anomaly detection with algebraic graph theory to identify complex, low-signal network attacks. | 2026-06-26 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-26 | 1 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
@@ -276,7 +277,6 @@
 | [B3helit/Safe-networking-transactions](https://github.com/B3helit/Safe-networking-transactions) | Safe network requests and responses using HMAC-SHA512. | 2026-01-20 | 0 |
 | [paybilldev/terraform-aws-canary-infra](https://github.com/paybilldev/terraform-aws-canary-infra) | Provisions a secure AWS environment for Synthetic Monitoring Canaries, including an encrypted S3 bucket for reports with versioning and lifecycle policies, an IAM role with necessary permissions, and security groups for safe network access. It automates Canary setup for observability and monitoring in a compliant reusable way | 2026-01-10 | 0 |
 | [ibrahimiyawa/cybersecurity-homelab](https://github.com/ibrahimiyawa/cybersecurity-homelab) | Built a virtual lab environment for practicing cybersecurity skills in an isolated, safe network. | 2026-01-05 | 0 |
-| [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2025-12-21 | 0 |
 | [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2026-04-06 | 5 |
 | [formysister/express-safe-gateway](https://github.com/formysister/express-safe-gateway) | Express.js middleware plugin to establish safe network without HTTPS. | 2025-12-11 | 0 |
 | [HariYengantiwa/PRODIGY_CS_05](https://github.com/HariYengantiwa/PRODIGY_CS_05) | Educational Packet Analyzer — parses user-supplied pcap files and summarizes packets (timestamp, src/dst IP & ports, protocol, length) for safe network learning. Runs locally, shows small payload previews, and emphasizes ethical/legal capture — for classrooms, labs, and forensic practice only. | 2025-10-25 | 0 |
@@ -290,8 +290,9 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
+| [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-27 | 1 |
 | [cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2](https://github.com/cyber-Willz/CIC_IDS2018_Spectral_HNSW_Security_Engine_v2) | A high-performance, memory-safe network intrusion detection system (NIDS) built entirely in Rust. The engine fuses deep reconstruction anomaly detection with algebraic graph theory to identify complex, low-signal network attacks. | 2026-06-26 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-26 | 1 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
 | [behavent/edgecheck](https://github.com/behavent/edgecheck) | EdgeCheck is an open-source, browser-safe network integrity probe designed to detect DNS manipulation, NXDOMAIN hijacking, captive portals, and proxy/interception heuristics using client-side techniques.  It provides transparency into common public WiFi and network risks without requiring native privileges. | 2026-03-03 | 0 |
@@ -305,7 +306,6 @@
 | [B3helit/Safe-networking-transactions](https://github.com/B3helit/Safe-networking-transactions) | Safe network requests and responses using HMAC-SHA512. | 2026-01-20 | 0 |
 | [paybilldev/terraform-aws-canary-infra](https://github.com/paybilldev/terraform-aws-canary-infra) | Provisions a secure AWS environment for Synthetic Monitoring Canaries, including an encrypted S3 bucket for reports with versioning and lifecycle policies, an IAM role with necessary permissions, and security groups for safe network access. It automates Canary setup for observability and monitoring in a compliant reusable way | 2026-01-10 | 0 |
 | [ibrahimiyawa/cybersecurity-homelab](https://github.com/ibrahimiyawa/cybersecurity-homelab) | Built a virtual lab environment for practicing cybersecurity skills in an isolated, safe network. | 2026-01-05 | 0 |
-| [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2025-12-21 | 0 |
 | [Rajah77/HomeNetwork-SecuritySuite](https://github.com/Rajah77/HomeNetwork-SecuritySuite) | A modern LAN security demonstration toolkit showing IPv6 behavior, rogue DHCP risks, DoH traffic, IoT vulnerabilities, and general metadata analysis. Designed for cybersecurity learning and safe network awareness. Use only on networks you own or have permission to test. | 2026-04-06 | 5 |
 | [formysister/express-safe-gateway](https://github.com/formysister/express-safe-gateway) | Express.js middleware plugin to establish safe network without HTTPS. | 2025-12-11 | 0 |
 | [HariYengantiwa/PRODIGY_CS_05](https://github.com/HariYengantiwa/PRODIGY_CS_05) | Educational Packet Analyzer — parses user-supplied pcap files and summarizes packets (timestamp, src/dst IP & ports, protocol, length) for safe network learning. Runs locally, shows small payload previews, and emphasizes ethical/legal capture — for classrooms, labs, and forensic practice only. | 2025-10-25 | 0 |
@@ -321,4 +321,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-26 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-06-27 | 1 |
