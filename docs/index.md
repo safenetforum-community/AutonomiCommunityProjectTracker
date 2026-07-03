@@ -3,6 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [davidealbertazzi97-jpg/TeacherAgent.ex](https://github.com/davidealbertazzi97-jpg/TeacherAgent.ex) | Fork di eXeLearning modificato nel rispetto delle licenze per integrarsi con agenti AI autonomi (es. OpenCode). Progettato per automatizzare la creazione di contenuti e giochi didattici interattivi. | 2026-07-03 | 0 |
 | [Freddy-dev0/SE4AI_Agentic_project](https://github.com/Freddy-dev0/SE4AI_Agentic_project) | Progetto d'esame di "Software Engineering for AI" focalizzato sullo studio empirico del comportamento degli agenti autonomi di coding. | 2026-07-01 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-07-01 | 9 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-30 | 0 |
@@ -102,7 +103,7 @@
 | [loureirorg/local-sync-autonomi](https://github.com/loureirorg/local-sync-autonomi) | Syncs local folder changes automatically with remote storage on the Autonomi Network | 2026-04-08 | 0 |
 | [jadkins-me/ant_exporter](https://github.com/jadkins-me/ant_exporter) | Autonomi Network ANT $ANT token Dashboard | 2026-04-08 | 0 |
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
-| [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
+| [davidealbertazzi97-jpg/TeacherAgent.ex](https://github.com/davidealbertazzi97-jpg/TeacherAgent.ex) | Fork di eXeLearning modificato nel rispetto delle licenze per integrarsi con agenti AI autonomi (es. OpenCode). Progettato per automatizzare la creazione di contenuti e giochi didattici interattivi. | 2026-07-03 | 0 |
 | [Freddy-dev0/SE4AI_Agentic_project](https://github.com/Freddy-dev0/SE4AI_Agentic_project) | Progetto d'esame di "Software Engineering for AI" focalizzato sullo studio empirico del comportamento degli agenti autonomi di coding. | 2026-07-01 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-07-01 | 9 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-30 | 0 |
@@ -202,7 +203,6 @@
 | [loureirorg/local-sync-autonomi](https://github.com/loureirorg/local-sync-autonomi) | Syncs local folder changes automatically with remote storage on the Autonomi Network | 2026-04-08 | 0 |
 | [jadkins-me/ant_exporter](https://github.com/jadkins-me/ant_exporter) | Autonomi Network ANT $ANT token Dashboard | 2026-04-08 | 0 |
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
-| [NAFORadio/Autonomi_GUI](https://github.com/NAFORadio/Autonomi_GUI) | A frontend for Autonomi written in Python | 2025-02-20 | 1 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-06-30 | 0 |
 | [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-26 | 1 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-06-22 | 0 |
@@ -261,7 +261,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-01 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-02 | 1 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
@@ -289,7 +289,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-01 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-02 | 1 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-06-07 | 0 |
@@ -319,4 +319,4 @@
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-01 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-02 | 1 |
