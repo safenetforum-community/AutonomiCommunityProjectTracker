@@ -3,12 +3,13 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [kassemfor/Consolidated_Publisher_Cowork_GsTudio](https://github.com/kassemfor/Consolidated_Publisher_Cowork_GsTudio) | AI-agent-native content operations platform — the synthesis of three source repos (Autonomi-Content-Director, titan-platform, digital-products). Full rationale, scores, and roadmap: SYNTHESIS_REPORT.md. Decisions: docs/adr/. Operations: docs/runbook.md. | 2026-07-13 | 1 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-07-12 | 9 |
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-07-11 | 5 |
 | [WithAutonomi/ant-maven](https://github.com/WithAutonomi/ant-maven) | Maven repository (GitHub Pages) for Autonomi Android SDK artifacts — add maven("https://withautonomi.github.io/ant-maven/") | 2026-07-09 | 0 |
 | [WithAutonomi/ant-mobile-android](https://github.com/WithAutonomi/ant-mobile-android) | Autonomi Android demo app — external-signer paid uploads (WalletConnect). Consumes com.autonomi:ant-android from ant-maven. | 2026-07-09 | 0 |
 | [WithAutonomi/ant-mobile-ios](https://github.com/WithAutonomi/ant-mobile-ios) | Autonomi iOS demo app — external-signer paid uploads (WalletConnect). Consumes the ant-swift SDK. | 2026-07-09 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-07-08 | 9 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-07-07 | 0 |
 | [Freddy-dev0/SE4AI_Agentic_project](https://github.com/Freddy-dev0/SE4AI_Agentic_project) | Progetto d'esame di "Software Engineering for AI" focalizzato sullo studio empirico del comportamento degli agenti autonomi di coding. | 2026-07-06 | 0 |
 | [ambled/fakenode](https://github.com/ambled/fakenode) | Fake autonomi node simulator | 2026-07-04 | 0 |
@@ -102,13 +103,13 @@
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
 | [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
 | [RolandSherwin/ant-network-workflow-runner](https://github.com/RolandSherwin/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-03-27 | 0 |
-| [happybeing/awapi-test-actix](https://github.com/happybeing/awapi-test-actix) | Actix-web based end-to-end test of a localhost HTTP API that connects to Autonomi | 2025-03-24 | 0 |
+| [kassemfor/Consolidated_Publisher_Cowork_GsTudio](https://github.com/kassemfor/Consolidated_Publisher_Cowork_GsTudio) | AI-agent-native content operations platform — the synthesis of three source repos (Autonomi-Content-Director, titan-platform, digital-products). Full rationale, scores, and roadmap: SYNTHESIS_REPORT.md. Decisions: docs/adr/. Operations: docs/runbook.md. | 2026-07-13 | 1 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-07-12 | 9 |
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-07-11 | 5 |
 | [WithAutonomi/ant-maven](https://github.com/WithAutonomi/ant-maven) | Maven repository (GitHub Pages) for Autonomi Android SDK artifacts — add maven("https://withautonomi.github.io/ant-maven/") | 2026-07-09 | 0 |
 | [WithAutonomi/ant-mobile-android](https://github.com/WithAutonomi/ant-mobile-android) | Autonomi Android demo app — external-signer paid uploads (WalletConnect). Consumes com.autonomi:ant-android from ant-maven. | 2026-07-09 | 0 |
 | [WithAutonomi/ant-mobile-ios](https://github.com/WithAutonomi/ant-mobile-ios) | Autonomi iOS demo app — external-signer paid uploads (WalletConnect). Consumes the ant-swift SDK. | 2026-07-09 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | Pure quantum-proof network node for the Autonomi decentralized network | 2026-07-08 | 9 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-07-07 | 0 |
 | [Freddy-dev0/SE4AI_Agentic_project](https://github.com/Freddy-dev0/SE4AI_Agentic_project) | Progetto d'esame di "Software Engineering for AI" focalizzato sullo studio empirico del comportamento degli agenti autonomi di coding. | 2026-07-06 | 0 |
 | [ambled/fakenode](https://github.com/ambled/fakenode) | Fake autonomi node simulator | 2026-07-04 | 0 |
@@ -202,7 +203,6 @@
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
 | [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
 | [RolandSherwin/ant-network-workflow-runner](https://github.com/RolandSherwin/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-03-27 | 0 |
-| [happybeing/awapi-test-actix](https://github.com/happybeing/awapi-test-actix) | Actix-web based end-to-end test of a localhost HTTP API that connects to Autonomi | 2025-03-24 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-07-11 | 5 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-07-07 | 0 |
 | [maidsafe/autonomi-llm-docs](https://github.com/maidsafe/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-06-26 | 1 |
@@ -261,9 +261,9 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-12 | 1 |
 | [gbadedata/mule-network-detection](https://github.com/gbadedata/mule-network-detection) | Graph-based money-mule and AML detection: leakage-safe network features, per-typology recall, and a cost-ranked account review queue. | 2026-07-12 | 0 |
 | [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-07-11 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-11 | 1 |
 | [omnaiknavare06/NetGuard](https://github.com/omnaiknavare06/NetGuard) | NetGuard AI is an intelligent AI-powered network monitoring and troubleshooting system that detects anomalies, performs automated diagnostics using Google Gemini AI, executes safe network commands, and provides real-time monitoring with actionable incident analysis. | 2026-07-09 | 0 |
 | [Distracted-Games/Remotes](https://github.com/Distracted-Games/Remotes) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-07-05 | 1 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
@@ -293,9 +293,9 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-12 | 1 |
 | [gbadedata/mule-network-detection](https://github.com/gbadedata/mule-network-detection) | Graph-based money-mule and AML detection: leakage-safe network features, per-typology recall, and a cost-ranked account review queue. | 2026-07-12 | 0 |
 | [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-07-11 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-11 | 1 |
 | [omnaiknavare06/NetGuard](https://github.com/omnaiknavare06/NetGuard) | NetGuard AI is an intelligent AI-powered network monitoring and troubleshooting system that detects anomalies, performs automated diagnostics using Google Gemini AI, executes safe network commands, and provides real-time monitoring with actionable incident analysis. | 2026-07-09 | 0 |
 | [Distracted-Games/Remotes](https://github.com/Distracted-Games/Remotes) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-07-05 | 1 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
@@ -328,4 +328,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-11 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-12 | 1 |
