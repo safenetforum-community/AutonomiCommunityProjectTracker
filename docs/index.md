@@ -32,7 +32,7 @@
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-05-15 | 2 |
 | [LolloRega/CoreVision-Lidar-Perception-Pipeline](https://github.com/LolloRega/CoreVision-Lidar-Perception-Pipeline) | Pipeline di percezione 3D per veicoli autonomi: elaborazione di dataset KITTI, filtraggio spaziale e segmentazione di oggetti in tempo reale. | 2026-05-14 | 0 |
 | [santoromarco74/agentic](https://github.com/santoromarco74/agentic) | Il modo degli agenti autonomi | 2026-05-14 | 0 |
-| [samakshchhibb/FYP_auditor](https://github.com/samakshchhibb/FYP_auditor) | AUTONOMI auditing app for SME's | 2026-05-01 | 0 |
+| [samakshchhibb/FYP_auditor](https://github.com/samakshchhibb/FYP_auditor) | AUTONOMI auditing app for SME's | 2026-07-18 | 0 |
 | [WithAutonomi/autonomi-app-docs](https://github.com/WithAutonomi/autonomi-app-docs) | Documentation for the Autonomi App (docs.autonomi.com/app) | 2026-04-28 | 0 |
 | [WithAutonomi/autonomi-learn-docs](https://github.com/WithAutonomi/autonomi-learn-docs) | Public Learn documentation for Autonomi, maintained in Markdown, synced to GitBook, and serving as the main entry point for docs.autonomi.com. | 2026-04-22 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-04-21 | 0 |
@@ -132,7 +132,7 @@
 | [traktion/chunk-streamer](https://github.com/traktion/chunk-streamer) | Stream Autonomi chunks over futures::stream  | 2026-05-15 | 2 |
 | [LolloRega/CoreVision-Lidar-Perception-Pipeline](https://github.com/LolloRega/CoreVision-Lidar-Perception-Pipeline) | Pipeline di percezione 3D per veicoli autonomi: elaborazione di dataset KITTI, filtraggio spaziale e segmentazione di oggetti in tempo reale. | 2026-05-14 | 0 |
 | [santoromarco74/agentic](https://github.com/santoromarco74/agentic) | Il modo degli agenti autonomi | 2026-05-14 | 0 |
-| [samakshchhibb/FYP_auditor](https://github.com/samakshchhibb/FYP_auditor) | AUTONOMI auditing app for SME's | 2026-05-01 | 0 |
+| [samakshchhibb/FYP_auditor](https://github.com/samakshchhibb/FYP_auditor) | AUTONOMI auditing app for SME's | 2026-07-18 | 0 |
 | [WithAutonomi/autonomi-app-docs](https://github.com/WithAutonomi/autonomi-app-docs) | Documentation for the Autonomi App (docs.autonomi.com/app) | 2026-04-28 | 0 |
 | [WithAutonomi/autonomi-learn-docs](https://github.com/WithAutonomi/autonomi-learn-docs) | Public Learn documentation for Autonomi, maintained in Markdown, synced to GitBook, and serving as the main entry point for docs.autonomi.com. | 2026-04-22 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-04-21 | 0 |
@@ -261,7 +261,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-17 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-18 | 1 |
 | [gbadedata/mule-network-detection](https://github.com/gbadedata/mule-network-detection) | Graph-based money-mule and AML detection: leakage-safe network features, per-typology recall, and a cost-ranked account review queue. | 2026-07-12 | 0 |
 | [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-07-13 | 1 |
 | [omnaiknavare06/NetGuard](https://github.com/omnaiknavare06/NetGuard) | NetGuard AI is an intelligent AI-powered network monitoring and troubleshooting system that detects anomalies, performs automated diagnostics using Google Gemini AI, executes safe network commands, and provides real-time monitoring with actionable incident analysis. | 2026-07-09 | 0 |
@@ -293,7 +293,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-17 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-18 | 1 |
 | [gbadedata/mule-network-detection](https://github.com/gbadedata/mule-network-detection) | Graph-based money-mule and AML detection: leakage-safe network features, per-typology recall, and a cost-ranked account review queue. | 2026-07-12 | 0 |
 | [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-07-13 | 1 |
 | [omnaiknavare06/NetGuard](https://github.com/omnaiknavare06/NetGuard) | NetGuard AI is an intelligent AI-powered network monitoring and troubleshooting system that detects anomalies, performs automated diagnostics using Google Gemini AI, executes safe network commands, and provides real-time monitoring with actionable incident analysis. | 2026-07-09 | 0 |
@@ -328,4 +328,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-17 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-07-18 | 1 |
