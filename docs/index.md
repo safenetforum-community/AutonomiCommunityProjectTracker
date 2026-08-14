@@ -3,11 +3,14 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-14 | 5 |
+| [WithAutonomi/ant-ui](https://github.com/WithAutonomi/ant-ui) | The Autonomi desktop app for managing nodes and files. (Tauri 2 + Nuxt 3 + Vue 3) | 2026-08-13 | 1 |
+| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-08-13 | 1 |
+| [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-08-13 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-08-13 | 9 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-08-12 | 4 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-08-12 | 0 |
 | [WithAutonomi/evmlib](https://github.com/WithAutonomi/evmlib) | EVM payment integration for Autonomi - ANT payments with external-signer support. | 2026-08-12 | 1 |
-| [WithAutonomi/ant-ui](https://github.com/WithAutonomi/ant-ui) | The Autonomi desktop app for managing nodes and files. (Tauri 2 + Nuxt 3 + Vue 3) | 2026-08-12 | 1 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/antget](https://github.com/WithAutonomi/antget) | curl/wget but for Autonomi | 2026-08-10 | 0 |
 | [ethrx-dev/zknode-autonomi-alpha](https://github.com/ethrx-dev/zknode-autonomi-alpha) | ZKNode Autonomi - Mixnet infrastructure with walletshield, zkchat, dashboard, and ant node | 2026-07-17 | 0 |
@@ -22,11 +25,8 @@
 | [WithAutonomi/ant-mobile-ios](https://github.com/WithAutonomi/ant-mobile-ios) | Autonomi iOS demo app — external-signer paid uploads (WalletConnect). Consumes the ant-swift SDK. | 2026-08-07 | 0 |
 | [WithAutonomi/ant-mobile-android](https://github.com/WithAutonomi/ant-mobile-android) | Autonomi Android demo app — external-signer paid uploads (WalletConnect). Consumes com.autonomi:ant-android from ant-maven. | 2026-08-07 | 0 |
 | [WithAutonomi/ant-maven](https://github.com/WithAutonomi/ant-maven) | Maven repository (GitHub Pages) for Autonomi Android SDK artifacts — add maven("https://withautonomi.github.io/ant-maven/") | 2026-08-07 | 0 |
-| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-08-07 | 1 |
 | [kooshikooo-lab/autonomi-code-assistant](https://github.com/kooshikooo-lab/autonomi-code-assistant) | Code-assistant adapted for the Autonomi (ex-SAFE/MaidSafe) network: user-owned storage, peer hosting, MCP integration | 2026-08-07 | 0 |
-| [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-08-06 | 0 |
 | [davidealbertazzi97-jpg/TeacherAgent.ex](https://github.com/davidealbertazzi97-jpg/TeacherAgent.ex) | Fork di eXeLearning modificato nel rispetto delle licenze per integrarsi con agenti AI autonomi (es. OpenCode). Progettato per automatizzare la creazione di contenuti e giochi didattici interattivi. | 2026-08-04 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-02 | 5 |
 | [byebis/nexus-news-ai](https://github.com/byebis/nexus-news-ai) | Nexus News AI - Giornale di nuova generazione con agenti AI autonomi | 2026-08-02 | 0 |
 | [Alchemi1/zknode-autonomi-x0x-p4p](https://github.com/Alchemi1/zknode-autonomi-x0x-p4p) | Sovereign Agentic P4P Node: post-quantum mixnet + x0x agent mesh + FAE AI companion + Autonomi storage + zymkey HSM | 2026-07-28 | 0 |
 | [WithAutonomi/ant-swift](https://github.com/WithAutonomi/ant-swift) | Swift bindings for Autonomi (iOS/macOS), generated from the ant-sdk FFI crate via UniFFI. | 2026-08-03 | 0 |
@@ -103,11 +103,14 @@
 | [happybeing/awe](https://github.com/happybeing/awe) | A Website Publisher/Browser for Autonomi (demo) | 2025-06-02 | 8 |
 | [happybeing/dweb-app-fileman](https://github.com/happybeing/dweb-app-fileman) | Fileman - a file manager (as a dynamic decentralised web app) for Autonomi | 2025-06-02 | 1 |
 | [happybeing/dweb-app-names](https://github.com/happybeing/dweb-app-names) | Names - manage memorable names for websites on Autonomi | 2025-06-02 | 1 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-14 | 5 |
+| [WithAutonomi/ant-ui](https://github.com/WithAutonomi/ant-ui) | The Autonomi desktop app for managing nodes and files. (Tauri 2 + Nuxt 3 + Vue 3) | 2026-08-13 | 1 |
+| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-08-13 | 1 |
+| [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-08-13 | 0 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-08-13 | 9 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-08-12 | 4 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-08-12 | 0 |
 | [WithAutonomi/evmlib](https://github.com/WithAutonomi/evmlib) | EVM payment integration for Autonomi - ANT payments with external-signer support. | 2026-08-12 | 1 |
-| [WithAutonomi/ant-ui](https://github.com/WithAutonomi/ant-ui) | The Autonomi desktop app for managing nodes and files. (Tauri 2 + Nuxt 3 + Vue 3) | 2026-08-12 | 1 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/antget](https://github.com/WithAutonomi/antget) | curl/wget but for Autonomi | 2026-08-10 | 0 |
 | [ethrx-dev/zknode-autonomi-alpha](https://github.com/ethrx-dev/zknode-autonomi-alpha) | ZKNode Autonomi - Mixnet infrastructure with walletshield, zkchat, dashboard, and ant node | 2026-07-17 | 0 |
@@ -122,11 +125,8 @@
 | [WithAutonomi/ant-mobile-ios](https://github.com/WithAutonomi/ant-mobile-ios) | Autonomi iOS demo app — external-signer paid uploads (WalletConnect). Consumes the ant-swift SDK. | 2026-08-07 | 0 |
 | [WithAutonomi/ant-mobile-android](https://github.com/WithAutonomi/ant-mobile-android) | Autonomi Android demo app — external-signer paid uploads (WalletConnect). Consumes com.autonomi:ant-android from ant-maven. | 2026-08-07 | 0 |
 | [WithAutonomi/ant-maven](https://github.com/WithAutonomi/ant-maven) | Maven repository (GitHub Pages) for Autonomi Android SDK artifacts — add maven("https://withautonomi.github.io/ant-maven/") | 2026-08-07 | 0 |
-| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-08-07 | 1 |
 | [kooshikooo-lab/autonomi-code-assistant](https://github.com/kooshikooo-lab/autonomi-code-assistant) | Code-assistant adapted for the Autonomi (ex-SAFE/MaidSafe) network: user-owned storage, peer hosting, MCP integration | 2026-08-07 | 0 |
-| [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-08-06 | 0 |
 | [davidealbertazzi97-jpg/TeacherAgent.ex](https://github.com/davidealbertazzi97-jpg/TeacherAgent.ex) | Fork di eXeLearning modificato nel rispetto delle licenze per integrarsi con agenti AI autonomi (es. OpenCode). Progettato per automatizzare la creazione di contenuti e giochi didattici interattivi. | 2026-08-04 | 0 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-02 | 5 |
 | [byebis/nexus-news-ai](https://github.com/byebis/nexus-news-ai) | Nexus News AI - Giornale di nuova generazione con agenti AI autonomi | 2026-08-02 | 0 |
 | [Alchemi1/zknode-autonomi-x0x-p4p](https://github.com/Alchemi1/zknode-autonomi-x0x-p4p) | Sovereign Agentic P4P Node: post-quantum mixnet + x0x agent mesh + FAE AI companion + Autonomi storage + zymkey HSM | 2026-07-28 | 0 |
 | [WithAutonomi/ant-swift](https://github.com/WithAutonomi/ant-swift) | Swift bindings for Autonomi (iOS/macOS), generated from the ant-sdk FFI crate via UniFFI. | 2026-08-03 | 0 |
@@ -203,12 +203,12 @@
 | [happybeing/awe](https://github.com/happybeing/awe) | A Website Publisher/Browser for Autonomi (demo) | 2025-06-02 | 8 |
 | [happybeing/dweb-app-fileman](https://github.com/happybeing/dweb-app-fileman) | Fileman - a file manager (as a dynamic decentralised web app) for Autonomi | 2025-06-02 | 1 |
 | [happybeing/dweb-app-names](https://github.com/happybeing/dweb-app-names) | Names - manage memorable names for websites on Autonomi | 2025-06-02 | 1 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-14 | 5 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-08-12 | 4 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-08-12 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-08-07 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-08-07 | 1 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-02 | 5 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-08-03 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-04-19 | 3 |
 | [traktion/antid](https://github.com/traktion/antid) | AntID is a specification and implementation to store personal identification in a standard way on Autonomi Network  | 2026-03-17 | 0 |
@@ -234,12 +234,12 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-14 | 5 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-08-12 | 4 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-08-12 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-08-07 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-08-07 | 1 |
-| [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-08-02 | 5 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-08-03 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-04-19 | 3 |
 | [traktion/antid](https://github.com/traktion/antid) | AntID is a specification and implementation to store personal identification in a standard way on Autonomi Network  | 2026-03-17 | 0 |
@@ -265,7 +265,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-12 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-13 | 1 |
 | [GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public](https://github.com/GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public) | Research and evaluation workflow for a privacy-safe, action-safe network agent. | 2026-08-03 | 0 |
 | [atriganguly/lumina-ve](https://github.com/atriganguly/lumina-ve) | High-performance, memory-aware REST engine for e-commerce image validation, Amazon compliance checks, background removal, pHash, and SSRF-safe network telemetry with non-ML fallback pipelines. | 2026-07-23 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-07-19 | 0 |
@@ -298,7 +298,7 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-12 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-13 | 1 |
 | [GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public](https://github.com/GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public) | Research and evaluation workflow for a privacy-safe, action-safe network agent. | 2026-08-03 | 0 |
 | [atriganguly/lumina-ve](https://github.com/atriganguly/lumina-ve) | High-performance, memory-aware REST engine for e-commerce image validation, Amazon compliance checks, background removal, pHash, and SSRF-safe network telemetry with non-ML fallback pipelines. | 2026-07-23 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-07-19 | 0 |
@@ -336,4 +336,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-12 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-13 | 1 |
