@@ -3,6 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
 | [ethrx-dev/zknode-autonomi-alpha](https://github.com/ethrx-dev/zknode-autonomi-alpha) | ZKNode Autonomi - Mixnet infrastructure with walletshield, zkchat, dashboard, and ant node | 2026-08-20 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-08-20 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-08-20 | 1 |
@@ -102,7 +103,7 @@
 | [happybeing/dweb-app-fileman](https://github.com/happybeing/dweb-app-fileman) | Fileman - a file manager (as a dynamic decentralised web app) for Autonomi | 2025-06-02 | 1 |
 | [happybeing/dweb-app-names](https://github.com/happybeing/dweb-app-names) | Names - manage memorable names for websites on Autonomi | 2025-06-02 | 1 |
 | [happybeing/dweb-app-scratchchat](https://github.com/happybeing/dweb-app-scratchchat) | ScratchChat - a peer-to-peer chat for Autonomi in a standard web browser (uses the dweb REST API) | 2025-06-02 | 1 |
-| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-05-23 | 0 |
+| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
 | [ethrx-dev/zknode-autonomi-alpha](https://github.com/ethrx-dev/zknode-autonomi-alpha) | ZKNode Autonomi - Mixnet infrastructure with walletshield, zkchat, dashboard, and ant node | 2026-08-20 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-08-20 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-08-20 | 1 |
@@ -202,7 +203,7 @@
 | [happybeing/dweb-app-fileman](https://github.com/happybeing/dweb-app-fileman) | Fileman - a file manager (as a dynamic decentralised web app) for Autonomi | 2025-06-02 | 1 |
 | [happybeing/dweb-app-names](https://github.com/happybeing/dweb-app-names) | Names - manage memorable names for websites on Autonomi | 2025-06-02 | 1 |
 | [happybeing/dweb-app-scratchchat](https://github.com/happybeing/dweb-app-scratchchat) | ScratchChat - a peer-to-peer chat for Autonomi in a standard web browser (uses the dweb REST API) | 2025-06-02 | 1 |
-| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-05-23 | 0 |
+| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-08-20 | 1 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-08-18 | 0 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-08-18 | 4 |
@@ -222,7 +223,6 @@
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-08-22 | 0 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-08-21 | 0 |
 | [Champii/Mutant](https://github.com/Champii/Mutant) | Decentralized P2P Storage with Mutable Key/Value over the Autonomi Network | 2026-04-08 | 20 |
-| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-05-23 | 0 |
 | [safenetforum-community/autonomi-extra](https://github.com/safenetforum-community/autonomi-extra) | Useful Rust code for Autonomi network, maintained by community | 2025-05-12 | 2 |
 | [realrouse/pubant.com](https://github.com/realrouse/pubant.com) | PubAnt is a website that shows you how to create a Website on the Autonomi Network. | 2025-04-29 | 0 |
 | [Madcowe/ant-counter](https://github.com/Madcowe/ant-counter) | A simple counter app that stores it's data on the autonomi network | 2025-04-27 | 0 |
@@ -234,6 +234,7 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-08-20 | 1 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-08-18 | 0 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-08-18 | 4 |
@@ -253,7 +254,6 @@
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-08-22 | 0 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-08-21 | 0 |
 | [Champii/Mutant](https://github.com/Champii/Mutant) | Decentralized P2P Storage with Mutable Key/Value over the Autonomi Network | 2026-04-08 | 20 |
-| [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2025-05-23 | 0 |
 | [safenetforum-community/autonomi-extra](https://github.com/safenetforum-community/autonomi-extra) | Useful Rust code for Autonomi network, maintained by community | 2025-05-12 | 2 |
 | [realrouse/pubant.com](https://github.com/realrouse/pubant.com) | PubAnt is a website that shows you how to create a Website on the Autonomi Network. | 2025-04-29 | 0 |
 | [Madcowe/ant-counter](https://github.com/Madcowe/ant-counter) | A simple counter app that stores it's data on the autonomi network | 2025-04-27 | 0 |
@@ -265,8 +265,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-21 | 1 |
-| [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-08-17 | 0 |
+| [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-08-23 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-22 | 1 |
 | [Distracted-Games/Remotes](https://github.com/Distracted-Games/Remotes) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-08-16 | 1 |
 | [Oriental-Cherry-N/cherry-toolbox](https://github.com/Oriental-Cherry-N/cherry-toolbox) | A personal Windows toolbox, starting with safe network adapter switching. | 2026-08-15 | 0 |
 | [GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public](https://github.com/GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public) | Research and evaluation workflow for a privacy-safe, action-safe network agent. | 2026-08-03 | 0 |
@@ -300,8 +300,8 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-21 | 1 |
-| [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-08-17 | 0 |
+| [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-08-23 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-22 | 1 |
 | [Distracted-Games/Remotes](https://github.com/Distracted-Games/Remotes) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-08-16 | 1 |
 | [Oriental-Cherry-N/cherry-toolbox](https://github.com/Oriental-Cherry-N/cherry-toolbox) | A personal Windows toolbox, starting with safe network adapter switching. | 2026-08-15 | 0 |
 | [GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public](https://github.com/GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public) | Research and evaluation workflow for a privacy-safe, action-safe network agent. | 2026-08-03 | 0 |
@@ -340,4 +340,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-21 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-08-22 | 1 |
