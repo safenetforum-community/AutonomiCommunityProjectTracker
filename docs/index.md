@@ -3,18 +3,17 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [Project-DSpace/darwin-client](https://github.com/Project-DSpace/darwin-client) | Fork of Autonomi's ant-client | 2026-10-17 | 0 |
+| [aed900/antseal](https://github.com/aed900/antseal) | antseal — proof-of-existence & selective-disclosure sealing on Autonomi 2.0 | 2026-10-17 | 0 |
+| [Project-DSpace/darwin-node](https://github.com/Project-DSpace/darwin-node) | Fork of Autonomi's ant-node | 2026-10-16 | 0 |
+| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-16 | 7 |
+| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-16 | 0 |
+| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-10-16 | 3 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-10-16 | 11 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-10-16 | 0 |
 | [ethrx-dev/zknode-autonomi-alpha](https://github.com/ethrx-dev/zknode-autonomi-alpha) | ZKNode Autonomi - Mixnet infrastructure with walletshield, zkchat, dashboard, and ant node | 2026-10-15 | 0 |
-| [aed900/antseal](https://github.com/aed900/antseal) | antseal — proof-of-existence & selective-disclosure sealing on Autonomi 2.0 | 2026-10-15 | 0 |
 | [DavidMc0/autonomi-download-viz](https://github.com/DavidMc0/autonomi-download-viz) | Visualisation concepts for file downloads from Autonomi | 2026-10-15 | 0 |
-| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-10-15 | 3 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-10-15 | 5 |
 | [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-10-15 | 0 |
-| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-15 | 7 |
-| [Project-DSpace/darwin-node](https://github.com/Project-DSpace/darwin-node) | Fork of Autonomi's ant-node | 2026-10-15 | 0 |
-| [Project-DSpace/darwin-client](https://github.com/Project-DSpace/darwin-client) | Fork of Autonomi's ant-client | 2026-10-15 | 0 |
-| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-11 | 0 |
 | [AlessioGori05/business-autonomo](https://github.com/AlessioGori05/business-autonomo) | Micro-business online autonomi su GitHub Actions | 2026-10-11 | 0 |
 | [Project-DSpace/darwin-listings](https://github.com/Project-DSpace/darwin-listings) | Listed files for Autonomi-based storage networks: envelope format, listings, payment checks, protocol | 2026-10-13 | 0 |
 | [Lapi5100/fattura-forfettari-xml](https://github.com/Lapi5100/fattura-forfettari-xml) | Il programma crea e gestisce fatture elettroniche per lavoratori autonomi che adottano il regime forfettario. Il file generato in formato xml  è pronto per l'invio, non usa sistema SDI. | 2026-10-05 | 0 |
@@ -32,6 +31,7 @@
 | [ilreplicante/micro-siti](https://github.com/ilreplicante/micro-siti) | Costruttore di micro‑sistemi digitali. Creo strumenti semplici, veloci e autonomi: micro‑siti, utility, pannelli Linux, generatori. Cammino nella città e trasformo ciò che vedo in codice minimale. | 2026-08-31 | 0 |
 | [An0nym0usl/Nexus](https://github.com/An0nym0usl/Nexus) |  Nexus  Simulazione di una città con agenti autonomi: economia, lavoro, democrazia, salute, trasporti e dialoghi opzionali via LLM. Interfaccia web in tempo reale (mappa 2D e 3D), server Node.js con WebSocket e REST API. | 2026-08-27 | 0 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
+| [Rushing-to-freedom/Watch-It](https://github.com/Rushing-to-freedom/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/antget](https://github.com/WithAutonomi/antget) | curl/wget but for Autonomi | 2026-08-10 | 0 |
 | [WithAutonomi/.github](https://github.com/WithAutonomi/.github) | Organisation profile for Autonomi | 2026-08-07 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-08-07 | 0 |
@@ -103,18 +103,17 @@
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-08-22 | 0 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-08-21 | 0 |
 | [SafeMedia/safebox-example-webpage](https://github.com/SafeMedia/safebox-example-webpage) | Example webpage to showcase SafeBox client + Autonomi browser extension | 2025-08-21 | 0 |
+| [Project-DSpace/darwin-client](https://github.com/Project-DSpace/darwin-client) | Fork of Autonomi's ant-client | 2026-10-17 | 0 |
+| [aed900/antseal](https://github.com/aed900/antseal) | antseal — proof-of-existence & selective-disclosure sealing on Autonomi 2.0 | 2026-10-17 | 0 |
+| [Project-DSpace/darwin-node](https://github.com/Project-DSpace/darwin-node) | Fork of Autonomi's ant-node | 2026-10-16 | 0 |
+| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-16 | 7 |
+| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-16 | 0 |
+| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-10-16 | 3 |
 | [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-10-16 | 11 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-10-16 | 0 |
 | [ethrx-dev/zknode-autonomi-alpha](https://github.com/ethrx-dev/zknode-autonomi-alpha) | ZKNode Autonomi - Mixnet infrastructure with walletshield, zkchat, dashboard, and ant node | 2026-10-15 | 0 |
-| [aed900/antseal](https://github.com/aed900/antseal) | antseal — proof-of-existence & selective-disclosure sealing on Autonomi 2.0 | 2026-10-15 | 0 |
 | [DavidMc0/autonomi-download-viz](https://github.com/DavidMc0/autonomi-download-viz) | Visualisation concepts for file downloads from Autonomi | 2026-10-15 | 0 |
-| [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-10-15 | 3 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-10-15 | 5 |
 | [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-10-15 | 0 |
-| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-15 | 7 |
-| [Project-DSpace/darwin-node](https://github.com/Project-DSpace/darwin-node) | Fork of Autonomi's ant-node | 2026-10-15 | 0 |
-| [Project-DSpace/darwin-client](https://github.com/Project-DSpace/darwin-client) | Fork of Autonomi's ant-client | 2026-10-15 | 0 |
-| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-11 | 0 |
 | [AlessioGori05/business-autonomo](https://github.com/AlessioGori05/business-autonomo) | Micro-business online autonomi su GitHub Actions | 2026-10-11 | 0 |
 | [Project-DSpace/darwin-listings](https://github.com/Project-DSpace/darwin-listings) | Listed files for Autonomi-based storage networks: envelope format, listings, payment checks, protocol | 2026-10-13 | 0 |
 | [Lapi5100/fattura-forfettari-xml](https://github.com/Lapi5100/fattura-forfettari-xml) | Il programma crea e gestisce fatture elettroniche per lavoratori autonomi che adottano il regime forfettario. Il file generato in formato xml  è pronto per l'invio, non usa sistema SDI. | 2026-10-05 | 0 |
@@ -132,6 +131,7 @@
 | [ilreplicante/micro-siti](https://github.com/ilreplicante/micro-siti) | Costruttore di micro‑sistemi digitali. Creo strumenti semplici, veloci e autonomi: micro‑siti, utility, pannelli Linux, generatori. Cammino nella città e trasformo ciò che vedo in codice minimale. | 2026-08-31 | 0 |
 | [An0nym0usl/Nexus](https://github.com/An0nym0usl/Nexus) |  Nexus  Simulazione di una città con agenti autonomi: economia, lavoro, democrazia, salute, trasporti e dialoghi opzionali via LLM. Interfaccia web in tempo reale (mappa 2D e 3D), server Node.js con WebSocket e REST API. | 2026-08-27 | 0 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
+| [Rushing-to-freedom/Watch-It](https://github.com/Rushing-to-freedom/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/antget](https://github.com/WithAutonomi/antget) | curl/wget but for Autonomi | 2026-08-10 | 0 |
 | [WithAutonomi/.github](https://github.com/WithAutonomi/.github) | Organisation profile for Autonomi | 2026-08-07 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-08-07 | 0 |
@@ -203,14 +203,14 @@
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-08-22 | 0 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-08-21 | 0 |
 | [SafeMedia/safebox-example-webpage](https://github.com/SafeMedia/safebox-example-webpage) | Example webpage to showcase SafeBox client + Autonomi browser extension | 2025-08-21 | 0 |
+| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-16 | 7 |
+| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-16 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-10-16 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-10-15 | 5 |
-| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-15 | 7 |
-| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-11 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-10-02 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-09-03 | 1 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
+| [Rushing-to-freedom/Watch-It](https://github.com/Rushing-to-freedom/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-08-07 | 0 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-08-03 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-04-19 | 3 |
@@ -236,14 +236,14 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-16 | 7 |
+| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-16 | 0 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-10-16 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-10-15 | 5 |
-| [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-10-15 | 7 |
-| [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-11 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-10-02 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-09-03 | 1 |
 | [iweave/antfaucet](https://github.com/iweave/antfaucet) | Faucet for Autonomi Network Token (ANT) | 2026-08-22 | 0 |
+| [Rushing-to-freedom/Watch-It](https://github.com/Rushing-to-freedom/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-08-12 | 0 |
 | [WithAutonomi/autonomi-token-docs](https://github.com/WithAutonomi/autonomi-token-docs) | User documentation and guides for the Autonomi Network Token. Maintained in Markdown and synced to GitBook. | 2026-08-07 | 0 |
 | [WithAutonomi/ant-webex](https://github.com/WithAutonomi/ant-webex) | Browser extension for the Autonomi Network | 2026-08-03 | 0 |
 | [safenetforum-community/NTracking](https://github.com/safenetforum-community/NTracking) | NTacking Dashboard for Autonomi Network | 2026-04-19 | 3 |
@@ -269,8 +269,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-10-16 | 1 |
 | [skepty2333/claude-antiban](https://github.com/skepty2333/claude-antiban) | Set up and self-check a Claude-safe network environment (system proxy + HTTPS_PROXY, no TUN): step-by-step guide, agent skill, stdlib self-check | 2026-10-16 | 1 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-10-15 | 1 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-10-14 | 11 |
 | [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-10-13 | 0 |
 | [dai-yakai/VISTA](https://github.com/dai-yakai/VISTA) | A public repository of “VISTA: Verified Belief-Centric LLM Agents for Safe Network Management” | 2026-10-13 | 0 |
@@ -316,8 +316,8 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-10-16 | 1 |
 | [skepty2333/claude-antiban](https://github.com/skepty2333/claude-antiban) | Set up and self-check a Claude-safe network environment (system proxy + HTTPS_PROXY, no TUN): step-by-step guide, agent skill, stdlib self-check | 2026-10-16 | 1 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-10-15 | 1 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-10-14 | 11 |
 | [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-10-13 | 0 |
 | [dai-yakai/VISTA](https://github.com/dai-yakai/VISTA) | A public repository of “VISTA: Verified Belief-Centric LLM Agents for Safe Network Management” | 2026-10-13 | 0 |
@@ -368,4 +368,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-10-15 | 1 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-10-16 | 1 |
