@@ -3,17 +3,17 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-07 | 0 |
+| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-07 | 0 |
+| [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-06 | 0 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-11-06 | 8 |
-| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-05 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-11-05 | 11 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-11-06 | 11 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-11-05 | 0 |
 | [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-11-05 | 3 |
-| [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-04 | 0 |
 | [tobtill/ai-levels](https://github.com/tobtill/ai-levels) | Från ingen AI till bara AI - 9 nivåer av autonomi (Slidev deck) | 2026-11-04 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-11-03 | 1 |
 | [Mic23-01/antigravity-template](https://github.com/Mic23-01/antigravity-template) | Template sperimentale per agenti autonomi, con memoria su ChromaDB e file e guardrail | 2026-11-03 | 0 |
 | [WithAutonomi/autonomi-roadmap](https://github.com/WithAutonomi/autonomi-roadmap) | GitHub-driven roadmap content shim for Autonomi/Framer | 2026-11-02 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-02 | 0 |
 | [andreottigiulio/xScraper](https://github.com/andreottigiulio/xScraper) | Salva tweet da X in file HTML autonomi, con tema e immagini incorporate (console DevTools). | 2026-10-31 | 0 |
 | [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-10-30 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-10-29 | 0 |
@@ -57,7 +57,6 @@
 | [jpmartinez11-png/autonomo.github.io](https://github.com/jpmartinez11-png/autonomo.github.io) | autonomi 1 especializada  | 2026-06-17 | 0 |
 | [xQUANTUMTECH/matrix](https://github.com/xQUANTUMTECH/matrix) | MATRIX — agenti AI autonomi che vivono e cooperano in un mondo Minecraft osservato dal pubblico (Truman Show). Su base mindcraft (MIT). | 2026-06-06 | 0 |
 | [rosariomoscato/agentic-coding-boilerplate](https://github.com/rosariomoscato/agentic-coding-boilerplate) | Un boilerplate completo per agentic coding con autenticazione, database PostgreSQL, funzionalità di chat AI e componenti UI moderni - perfetto per costruire applicazioni basate sull'intelligenza artificiale e agenti autonomi. | 2026-05-28 | 0 |
-| [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-28 | 0 |
 | [ragionevolonta/matematica-applicata](https://github.com/ragionevolonta/matematica-applicata) | la spesa come strumento per studiare le somme ed essere autonomi | 2026-05-27 | 0 |
 | [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2026-08-18 | 1 |
 | [filippodebiasio2009-lab/capolavoro-unica-simulatore-tattico](https://github.com/filippodebiasio2009-lab/capolavoro-unica-simulatore-tattico) | Sviluppo da zero in Java di un simulatore tattico ad agenti autonomi guidati da Reti Neurali. Progetto per il Capolavoro di Unica. | 2026-05-17 | 0 |
@@ -93,7 +92,6 @@
 | [saifulfaizan/SwarmStrike](https://github.com/saifulfaizan/SwarmStrike) | 💥 Dengan AI autonomi, kriptografi tahan kuantum, C2 berasaskan blockchain, dan kejuruteraan sosial deepfake, sistem ini meniru APT tahap negara. Nilai simulasi: $100M+. Tahap ancaman: APOKALIPTIK. 🛡️🔥 | 2025-09-21 | 0 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
 | [AlessioAlunni/Web-Traffic-Simulator](https://github.com/AlessioAlunni/Web-Traffic-Simulator) | 🎓 Progetto universitario: simulatore traffico urbano con architettura Java/Node.js, comunicazione WebSocket real-time e interfaccia web responsive per visualizzazione interattiva veicoli autonomi. | 2025-09-18 | 0 |
-| [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-15 | 0 |
 | [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2026-04-08 | 0 |
 | [Daniel-Schutz/operator](https://github.com/Daniel-Schutz/operator) | Landing page for commercial promotion of Operator by Autonomi | 2025-09-09 | 0 |
 | [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-09-04 | 1 |
@@ -103,17 +101,19 @@
 | [SafeMedia/autonomi-browser](https://github.com/SafeMedia/autonomi-browser) | Browser for the Autonomi Network | 2025-08-22 | 0 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-08-22 | 0 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-08-21 | 0 |
+| [SafeMedia/safebox-example-webpage](https://github.com/SafeMedia/safebox-example-webpage) | Example webpage to showcase SafeBox client + Autonomi browser extension | 2025-08-21 | 0 |
+| [0belius/Autonomi-Nodes.Earnings-Breakdown](https://github.com/0belius/Autonomi-Nodes.Earnings-Breakdown) | A tool to aggregate and summarize Autonomi nodes earnings. As inputs it is processing CSV from Arbiscan | 2025-08-12 | 0 |
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-07 | 0 |
+| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-07 | 0 |
+| [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-06 | 0 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-11-06 | 8 |
-| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-05 | 0 |
-| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-11-05 | 11 |
+| [WithAutonomi/ant-node](https://github.com/WithAutonomi/ant-node) | The post-quantum network node for the Autonomi decentralised network. (Rust) | 2026-11-06 | 11 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-11-05 | 0 |
 | [WithAutonomi/ant-sdk](https://github.com/WithAutonomi/ant-sdk) | Build on Autonomi from Go, Python, JS/TS, Swift, Kotlin, C#, Java and more - client library, daemon, FFI bindings and MCP server. | 2026-11-05 | 3 |
-| [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-04 | 0 |
 | [tobtill/ai-levels](https://github.com/tobtill/ai-levels) | Från ingen AI till bara AI - 9 nivåer av autonomi (Slidev deck) | 2026-11-04 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-11-03 | 1 |
 | [Mic23-01/antigravity-template](https://github.com/Mic23-01/antigravity-template) | Template sperimentale per agenti autonomi, con memoria su ChromaDB e file e guardrail | 2026-11-03 | 0 |
 | [WithAutonomi/autonomi-roadmap](https://github.com/WithAutonomi/autonomi-roadmap) | GitHub-driven roadmap content shim for Autonomi/Framer | 2026-11-02 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-02 | 0 |
 | [andreottigiulio/xScraper](https://github.com/andreottigiulio/xScraper) | Salva tweet da X in file HTML autonomi, con tema e immagini incorporate (console DevTools). | 2026-10-31 | 0 |
 | [WithAutonomi/indelible](https://github.com/WithAutonomi/indelible) | Enterprise storage gateway for Autonomi - REST API, admin dashboard, and OIDC/SCIM identity integration. (Go + Vue) | 2026-10-30 | 0 |
 | [WithAutonomi/autonomi-developer-docs](https://github.com/WithAutonomi/autonomi-developer-docs) | Developer documentation for building on Autonomi, maintained in Markdown and synced to GitBook. | 2026-10-29 | 0 |
@@ -157,7 +157,6 @@
 | [jpmartinez11-png/autonomo.github.io](https://github.com/jpmartinez11-png/autonomo.github.io) | autonomi 1 especializada  | 2026-06-17 | 0 |
 | [xQUANTUMTECH/matrix](https://github.com/xQUANTUMTECH/matrix) | MATRIX — agenti AI autonomi che vivono e cooperano in un mondo Minecraft osservato dal pubblico (Truman Show). Su base mindcraft (MIT). | 2026-06-06 | 0 |
 | [rosariomoscato/agentic-coding-boilerplate](https://github.com/rosariomoscato/agentic-coding-boilerplate) | Un boilerplate completo per agentic coding con autenticazione, database PostgreSQL, funzionalità di chat AI e componenti UI moderni - perfetto per costruire applicazioni basate sull'intelligenza artificiale e agenti autonomi. | 2026-05-28 | 0 |
-| [gofooditalia/bemyrider](https://github.com/gofooditalia/bemyrider) | bemyrider, la prima community di rider autonomi al servizio diretto degli esercenti locali | 2026-05-28 | 0 |
 | [ragionevolonta/matematica-applicata](https://github.com/ragionevolonta/matematica-applicata) | la spesa come strumento per studiare le somme ed essere autonomi | 2026-05-27 | 0 |
 | [maidsafe/ant-ffi](https://github.com/maidsafe/ant-ffi) | Foreign Function Interface (using UniFFI) bindings to Autonomi for Swift, Kotlin and more | 2026-08-18 | 1 |
 | [filippodebiasio2009-lab/capolavoro-unica-simulatore-tattico](https://github.com/filippodebiasio2009-lab/capolavoro-unica-simulatore-tattico) | Sviluppo da zero in Java di un simulatore tattico ad agenti autonomi guidati da Reti Neurali. Progetto per il Capolavoro di Unica. | 2026-05-17 | 0 |
@@ -193,7 +192,6 @@
 | [saifulfaizan/SwarmStrike](https://github.com/saifulfaizan/SwarmStrike) | 💥 Dengan AI autonomi, kriptografi tahan kuantum, C2 berasaskan blockchain, dan kejuruteraan sosial deepfake, sistem ini meniru APT tahap negara. Nilai simulasi: $100M+. Tahap ancaman: APOKALIPTIK. 🛡️🔥 | 2025-09-21 | 0 |
 | [grumbach/ant_tube](https://github.com/grumbach/ant_tube) | A video streaming app for the Autonomi Network | 2025-09-19 | 0 |
 | [AlessioAlunni/Web-Traffic-Simulator](https://github.com/AlessioAlunni/Web-Traffic-Simulator) | 🎓 Progetto universitario: simulatore traffico urbano con architettura Java/Node.js, comunicazione WebSocket real-time e interfaccia web responsive per visualizzazione interattiva veicoli autonomi. | 2025-09-18 | 0 |
-| [bemyrider/bemyrider](https://github.com/bemyrider/bemyrider) | bemyrider.it – la prima community di rider autonomi su prenotazione oraria, al servizio diretto degli esercenti locali. 🚫 No intermediari. 🚫 No algoritmi. ✊ #delivoution | 2025-09-15 | 0 |
 | [zettawatt/colonylib](https://github.com/zettawatt/colonylib) | Rust library implementing the Colony metadata framework for the Autonomi network | 2026-04-08 | 0 |
 | [Daniel-Schutz/operator](https://github.com/Daniel-Schutz/operator) | Landing page for commercial promotion of Operator by Autonomi | 2025-09-09 | 0 |
 | [safenetforum-community/community-token](https://github.com/safenetforum-community/community-token) | Autonomi token standard, that enables issuing own token by anyone – from scratch, or by wrapping existing ERC20 tokens. | 2025-09-04 | 1 |
@@ -203,10 +201,12 @@
 | [SafeMedia/autonomi-browser](https://github.com/SafeMedia/autonomi-browser) | Browser for the Autonomi Network | 2025-08-22 | 0 |
 | [stafford-j/SOMA](https://github.com/stafford-j/SOMA) | SOMA gives you complete ownership of your personal information through secure, private vaults built on the revolutionary Autonomi network. Whether you're moving countries or rebuilding after displacement, SOMA ensures your health records, identity, and essential documentation remain accessible, portable, and always under your control. | 2025-08-22 | 0 |
 | [saykorz/AutonomiNet](https://github.com/saykorz/AutonomiNet) | .net library for Autonomi Network | 2025-08-21 | 0 |
+| [SafeMedia/safebox-example-webpage](https://github.com/SafeMedia/safebox-example-webpage) | Example webpage to showcase SafeBox client + Autonomi browser extension | 2025-08-21 | 0 |
+| [0belius/Autonomi-Nodes.Earnings-Breakdown](https://github.com/0belius/Autonomi-Nodes.Earnings-Breakdown) | A tool to aggregate and summarize Autonomi nodes earnings. As inputs it is processing CSV from Arbiscan | 2025-08-12 | 0 |
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-07 | 0 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-11-06 | 8 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-11-05 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-11-03 | 1 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-02 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-25 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-10-02 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
@@ -237,10 +237,10 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-07 | 0 |
 | [WithAutonomi/ant-client](https://github.com/WithAutonomi/ant-client) | Unified CLI and Rust library for storing data on the Autonomi network and managing nodes. | 2026-11-06 | 8 |
 | [WithAutonomi/ant-protocol](https://github.com/WithAutonomi/ant-protocol) | The Autonomi network's wire protocol crate | 2026-11-05 | 0 |
 | [WithAutonomi/autonomi-llm-docs](https://github.com/WithAutonomi/autonomi-llm-docs) | LLM-readable documentation for the Autonomi Network. Implements llms.txt standard and provides clean markdown versions of key content served at autonomi.com | 2026-11-03 | 1 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-02 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-10-25 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-10-02 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
@@ -271,9 +271,9 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-06 | 0 |
 | [sbollu28/sbollu28](https://github.com/sbollu28/sbollu28) | **Network Infrastructure & Security Engineering Portfolio**  Explore my engineering work in network architecture, Python automation, infrastructure security, and safe network-change validation. Includes a reproducible Agent Safety Lab prototype, technical documentation, and research interests in 5G security and network reliability. | 2026-11-05 | 0 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-11-05 | 12 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-05 | 0 |
 | [huzaifa380900-cell/Site-Scanner](https://github.com/huzaifa380900-cell/Site-Scanner) | SiteScanner is a robust web security application that audits websites to identify active technologies, underlying security protocols, and potential vulnerabilities. • Hardened Security: Engineered with robust validation mechanisms to strictly mitigate Server-Side Request Forgery (SSRF) and ensure safe network execution. | 2026-11-05 | 1 |
 | [aviyukttt/wifi-security-auditor](https://github.com/aviyukttt/wifi-security-auditor) | Local, read-only Wi-Fi security auditor with safe network visibility and passphrase-strength checks. | 2026-10-27 | 0 |
 | [angelluckey572-tech/safe-network-test-tool](https://github.com/angelluckey572-tech/safe-network-test-tool) | Safe network diagnostics tool with dark UI and backend API | 2026-10-25 | 0 |
@@ -322,9 +322,9 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-06 | 0 |
 | [sbollu28/sbollu28](https://github.com/sbollu28/sbollu28) | **Network Infrastructure & Security Engineering Portfolio**  Explore my engineering work in network architecture, Python automation, infrastructure security, and safe network-change validation. Includes a reproducible Agent Safety Lab prototype, technical documentation, and research interests in 5G security and network reliability. | 2026-11-05 | 0 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-11-05 | 12 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-05 | 0 |
 | [huzaifa380900-cell/Site-Scanner](https://github.com/huzaifa380900-cell/Site-Scanner) | SiteScanner is a robust web security application that audits websites to identify active technologies, underlying security protocols, and potential vulnerabilities. • Hardened Security: Engineered with robust validation mechanisms to strictly mitigate Server-Side Request Forgery (SSRF) and ensure safe network execution. | 2026-11-05 | 1 |
 | [aviyukttt/wifi-security-auditor](https://github.com/aviyukttt/wifi-security-auditor) | Local, read-only Wi-Fi security auditor with safe network visibility and passphrase-strength checks. | 2026-10-27 | 0 |
 | [angelluckey572-tech/safe-network-test-tool](https://github.com/angelluckey572-tech/safe-network-test-tool) | Safe network diagnostics tool with dark UI and backend API | 2026-10-25 | 0 |
@@ -378,4 +378,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-05 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-06 | 0 |
