@@ -3,9 +3,9 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-07 | 0 |
@@ -103,9 +103,9 @@
 | [happybeing/awapi-test-actix](https://github.com/happybeing/awapi-test-actix) | Actix-web based end-to-end test of a localhost HTTP API that connects to Autonomi | 2025-03-24 | 0 |
 | [wydileie/AutonomAuth](https://github.com/wydileie/AutonomAuth) | Web authentication using Autonomi backend | 2025-04-25 | 1 |
 | [loureirorg/playground-autonomi](https://github.com/loureirorg/playground-autonomi) | A devcontainer environment for testing and experimenting with Autonomi Python libraries. | 2025-02-24 | 0 |
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-07 | 0 |
@@ -203,8 +203,8 @@
 | [happybeing/awapi-test-actix](https://github.com/happybeing/awapi-test-actix) | Actix-web based end-to-end test of a localhost HTTP API that connects to Autonomi | 2025-03-24 | 0 |
 | [wydileie/AutonomAuth](https://github.com/wydileie/AutonomAuth) | Web authentication using Autonomi backend | 2025-04-25 | 1 |
 | [loureirorg/playground-autonomi](https://github.com/loureirorg/playground-autonomi) | A devcontainer environment for testing and experimenting with Autonomi Python libraries. | 2025-02-24 | 0 |
-| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
+| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
@@ -233,8 +233,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
+| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
@@ -263,15 +263,15 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-11-12 | 13 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-11 | 0 |
 | [Distracted-Games/Network](https://github.com/Distracted-Games/Network) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-11-07 | 1 |
 | [sbollu28/sbollu28](https://github.com/sbollu28/sbollu28) | **Network Infrastructure & Security Engineering Portfolio**  Explore my engineering work in network architecture, Python automation, infrastructure security, and safe network-change validation. Includes a reproducible Agent Safety Lab prototype, technical documentation, and research interests in 5G security and network reliability. | 2026-11-05 | 0 |
 | [huzaifa380900-cell/Site-Scanner](https://github.com/huzaifa380900-cell/Site-Scanner) | SiteScanner is a robust web security application that audits websites to identify active technologies, underlying security protocols, and potential vulnerabilities. • Hardened Security: Engineered with robust validation mechanisms to strictly mitigate Server-Side Request Forgery (SSRF) and ensure safe network execution. | 2026-11-05 | 1 |
 | [aviyukttt/wifi-security-auditor](https://github.com/aviyukttt/wifi-security-auditor) | Local, read-only Wi-Fi security auditor with safe network visibility and passphrase-strength checks. | 2026-10-27 | 0 |
 | [angelluckey572-tech/safe-network-test-tool](https://github.com/angelluckey572-tech/safe-network-test-tool) | Safe network diagnostics tool with dark UI and backend API | 2026-10-25 | 0 |
 | [gofastercloud/boetticher](https://github.com/gofastercloud/boetticher) | Opinionated, reproducible Proxmox homelab platform with a Debian/nftables gateway, DNS/NTP, PKI/mTLS, Zabbix, central logging, encrypted recovery, and safe network/storage automation. | 2026-10-21 | 0 |
-| [skepty2333/claude-antiban](https://github.com/skepty2333/claude-antiban) | Set up and self-check a Claude-safe network environment (system proxy + HTTPS_PROXY, no TUN): step-by-step guide, agent skill, stdlib self-check | 2026-10-18 | 1 |
+| [skepty2333/claude-antiban](https://github.com/skepty2333/claude-antiban) | Set up and self-check a Claude-safe network environment (system proxy + HTTPS_PROXY, no TUN): step-by-step guide, agent skill, stdlib self-check | 2026-11-13 | 2 |
 | [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-10-13 | 0 |
 | [dai-yakai/VISTA](https://github.com/dai-yakai/VISTA) | A public repository of “VISTA: Verified Belief-Centric LLM Agents for Safe Network Management” | 2026-10-13 | 0 |
 | [Arjunren/BotnetTrafficDetector](https://github.com/Arjunren/BotnetTrafficDetector) | Machine-learning detector for botnet and C2-like traffic in safe network-flow windows. Uses class-weighted logistic regression on connection frequency, destination diversity, byte/packet summaries, and beaconing intervals. Includes offline flow preparation, explainable scoring, FastAPI, Docker, tests, and CI. | 2026-10-23 | 1 |
@@ -314,15 +314,15 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-11-12 | 13 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-11 | 0 |
 | [Distracted-Games/Network](https://github.com/Distracted-Games/Network) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-11-07 | 1 |
 | [sbollu28/sbollu28](https://github.com/sbollu28/sbollu28) | **Network Infrastructure & Security Engineering Portfolio**  Explore my engineering work in network architecture, Python automation, infrastructure security, and safe network-change validation. Includes a reproducible Agent Safety Lab prototype, technical documentation, and research interests in 5G security and network reliability. | 2026-11-05 | 0 |
 | [huzaifa380900-cell/Site-Scanner](https://github.com/huzaifa380900-cell/Site-Scanner) | SiteScanner is a robust web security application that audits websites to identify active technologies, underlying security protocols, and potential vulnerabilities. • Hardened Security: Engineered with robust validation mechanisms to strictly mitigate Server-Side Request Forgery (SSRF) and ensure safe network execution. | 2026-11-05 | 1 |
 | [aviyukttt/wifi-security-auditor](https://github.com/aviyukttt/wifi-security-auditor) | Local, read-only Wi-Fi security auditor with safe network visibility and passphrase-strength checks. | 2026-10-27 | 0 |
 | [angelluckey572-tech/safe-network-test-tool](https://github.com/angelluckey572-tech/safe-network-test-tool) | Safe network diagnostics tool with dark UI and backend API | 2026-10-25 | 0 |
 | [gofastercloud/boetticher](https://github.com/gofastercloud/boetticher) | Opinionated, reproducible Proxmox homelab platform with a Debian/nftables gateway, DNS/NTP, PKI/mTLS, Zabbix, central logging, encrypted recovery, and safe network/storage automation. | 2026-10-21 | 0 |
-| [skepty2333/claude-antiban](https://github.com/skepty2333/claude-antiban) | Set up and self-check a Claude-safe network environment (system proxy + HTTPS_PROXY, no TUN): step-by-step guide, agent skill, stdlib self-check | 2026-10-18 | 1 |
+| [skepty2333/claude-antiban](https://github.com/skepty2333/claude-antiban) | Set up and self-check a Claude-safe network environment (system proxy + HTTPS_PROXY, no TUN): step-by-step guide, agent skill, stdlib self-check | 2026-11-13 | 2 |
 | [nimbusisland/nimbus-harness-lab](https://github.com/nimbusisland/nimbus-harness-lab) | Nimbus public research artifacts for LEO/NTN, agent evaluation, and safe network operations. | 2026-10-13 | 0 |
 | [dai-yakai/VISTA](https://github.com/dai-yakai/VISTA) | A public repository of “VISTA: Verified Belief-Centric LLM Agents for Safe Network Management” | 2026-10-13 | 0 |
 | [Arjunren/BotnetTrafficDetector](https://github.com/Arjunren/BotnetTrafficDetector) | Machine-learning detector for botnet and C2-like traffic in safe network-flow windows. Uses class-weighted logistic regression on connection frequency, destination diversity, byte/packet summaries, and beaconing intervals. Includes offline flow preparation, explainable scoring, FastAPI, Docker, tests, and CI. | 2026-10-23 | 1 |
@@ -369,4 +369,4 @@
 | [aed900/saorsa-autonomi](https://github.com/aed900/saorsa-autonomi) | Independent clean rebuild of Autonomi using Saorsa Labs' networking stack — replacing libp2p with post-quantum QUIC (ant-quic + saorsa-core). Not an official MaidSafe or Saorsa Labs repository. | 2026-07-11 | 0 |
 | [CynthiaGreenpaocan58/autonomi](https://github.com/CynthiaGreenpaocan58/autonomi) | Forked from https://github.com/maidsafe/autonomi.git | 2025-10-11 | 0 |
 | [safenetforum-community/safenet-faq](https://github.com/safenetforum-community/safenet-faq) |  Gathering information from Maidsafe forum  | 2024-02-14 | 0 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-11 | 0 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
