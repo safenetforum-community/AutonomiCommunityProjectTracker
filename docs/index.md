@@ -3,6 +3,7 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-14 | 0 |
 | [iodice21/Bachelor-Degree-Thesis](https://github.com/iodice21/Bachelor-Degree-Thesis) | Sviluppo in MATLAB/Simulink di un modello di dinamica laterale (2-DoF) per veicoli autonomi. Confronto tra modello non lineare (Pacejka) e lineare (LTI), con sintesi di un controllore ottimo H_infty in retroazione per la reiezione del vento laterale. | 2026-11-13 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
@@ -102,7 +103,7 @@
 | [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
 | [RolandSherwin/ant-network-workflow-runner](https://github.com/RolandSherwin/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-03-27 | 0 |
 | [happybeing/awapi-test-actix](https://github.com/happybeing/awapi-test-actix) | Actix-web based end-to-end test of a localhost HTTP API that connects to Autonomi | 2025-03-24 | 0 |
-| [wydileie/AutonomAuth](https://github.com/wydileie/AutonomAuth) | Web authentication using Autonomi backend | 2025-04-25 | 1 |
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-14 | 0 |
 | [iodice21/Bachelor-Degree-Thesis](https://github.com/iodice21/Bachelor-Degree-Thesis) | Sviluppo in MATLAB/Simulink di un modello di dinamica laterale (2-DoF) per veicoli autonomi. Confronto tra modello non lineare (Pacejka) e lineare (LTI), con sintesi di un controllore ottimo H_infty in retroazione per la reiezione del vento laterale. | 2026-11-13 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
@@ -202,7 +203,6 @@
 | [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
 | [RolandSherwin/ant-network-workflow-runner](https://github.com/RolandSherwin/ant-network-workflow-runner) | A CLI for running Github Actions workflows that launch and manage Autonomi networks | 2025-03-27 | 0 |
 | [happybeing/awapi-test-actix](https://github.com/happybeing/awapi-test-actix) | Actix-web based end-to-end test of a localhost HTTP API that connects to Autonomi | 2025-03-24 | 0 |
-| [wydileie/AutonomAuth](https://github.com/wydileie/AutonomAuth) | Web authentication using Autonomi backend | 2025-04-25 | 1 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
