@@ -3,10 +3,11 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
-| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
-| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-17 | 1 |
+| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
+| [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-17 | 1 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
@@ -102,11 +103,11 @@
 | [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
-| [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
-| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
-| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-17 | 1 |
+| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
+| [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-17 | 1 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
@@ -202,7 +203,6 @@
 | [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
-| [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
@@ -263,9 +263,9 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [ShepherdGal/Netcheck](https://github.com/ShepherdGal/Netcheck) | A calm Windows app that checks your internet, finds your fastest DNS and applies safe network tweaks - in plain words. | 2026-11-19 | 2 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-11-16 | 14 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
+| [ShepherdGal/Netcheck](https://github.com/ShepherdGal/Netcheck) | A calm Windows app that checks your internet, finds your fastest DNS and applies safe network tweaks - in plain words. | 2026-11-19 | 2 |
 | [huzaifa380900-cell/Site-Scanner](https://github.com/huzaifa380900-cell/Site-Scanner) | SiteScanner is a robust web security application that audits websites to identify active technologies, underlying security protocols, and potential vulnerabilities. • Hardened Security: Engineered with robust validation mechanisms to strictly mitigate Server-Side Request Forgery (SSRF) and ensure safe network execution. | 2026-11-05 | 1 |
 | [Distracted-Games/Network](https://github.com/Distracted-Games/Network) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-11-07 | 1 |
 | [sbollu28/sbollu28](https://github.com/sbollu28/sbollu28) | **Network Infrastructure & Security Engineering Portfolio**  Explore my engineering work in network architecture, Python automation, infrastructure security, and safe network-change validation. Includes a reproducible Agent Safety Lab prototype, technical documentation, and research interests in 5G security and network reliability. | 2026-11-05 | 0 |
@@ -316,9 +316,9 @@
 | [happybeing/safe-filesystem](https://github.com/happybeing/safe-filesystem) | A POSIX compatible 'local-first' filesystem API for Safe Network | 2024-02-19 | 0 |
 | [happybeing/shareable-p2p-drive](https://github.com/happybeing/shareable-p2p-drive) | A secure, shareable, decentralised drive for Safe Network with local-first, multi-user read/write access | 2024-02-19 | 0 |
 | [willief/ntracking](https://github.com/willief/ntracking) | Set Up Safe Network Nodes Stats & Tracking. | 2024-02-10 | 0 |
-| [ShepherdGal/Netcheck](https://github.com/ShepherdGal/Netcheck) | A calm Windows app that checks your internet, finds your fastest DNS and applies safe network tweaks - in plain words. | 2026-11-19 | 2 |
-| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
 | [network-analytics/NetCalyx](https://github.com/network-analytics/NetCalyx) | Type-safe network protocol parsing & telemetry collection | 2026-11-16 | 14 |
+| [safenetforum-community/AutonomiCommunityProjectTracker](https://github.com/safenetforum-community/AutonomiCommunityProjectTracker) |  script to crawl GitHub for projects referencing Autonomomi or SAFE Network | 2026-11-12 | 0 |
+| [ShepherdGal/Netcheck](https://github.com/ShepherdGal/Netcheck) | A calm Windows app that checks your internet, finds your fastest DNS and applies safe network tweaks - in plain words. | 2026-11-19 | 2 |
 | [huzaifa380900-cell/Site-Scanner](https://github.com/huzaifa380900-cell/Site-Scanner) | SiteScanner is a robust web security application that audits websites to identify active technologies, underlying security protocols, and potential vulnerabilities. • Hardened Security: Engineered with robust validation mechanisms to strictly mitigate Server-Side Request Forgery (SSRF) and ensure safe network execution. | 2026-11-05 | 1 |
 | [Distracted-Games/Network](https://github.com/Distracted-Games/Network) | Zero-boilerplate, type-safe network routing and middleware for Roblox. | 2026-11-07 | 1 |
 | [sbollu28/sbollu28](https://github.com/sbollu28/sbollu28) | **Network Infrastructure & Security Engineering Portfolio**  Explore my engineering work in network architecture, Python automation, infrastructure security, and safe network-change validation. Includes a reproducible Agent Safety Lab prototype, technical documentation, and research interests in 5G security and network reliability. | 2026-11-05 | 0 |
