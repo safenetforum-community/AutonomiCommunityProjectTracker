@@ -3,10 +3,10 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
@@ -103,10 +103,10 @@
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
 | [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
+| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
-| [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
@@ -203,8 +203,8 @@
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
 | [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
-| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
+| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
@@ -233,8 +233,8 @@
 | [NAFORadio/TheLifeMachine](https://github.com/NAFORadio/TheLifeMachine) | The first full length community member music album available only on the Autonomi Network.  | 2025-02-21 | 0 |
 | [safenetforum-community/ant-agent](https://github.com/safenetforum-community/ant-agent) | Distributed load and test Agent for the Autonomi Network | 2025-01-25 | 1 |
 | [wiikviz/NTracking](https://github.com/wiikviz/NTracking) | NTacking Dashboard for Autonomi Network | 2024-07-16 | 0 |
-| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
+| [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [sandy1000-dev/Autonomi-Downloader](https://github.com/sandy1000-dev/Autonomi-Downloader) | A browser based downloader for the Autonomi network | 2026-09-29 | 1 |
@@ -288,7 +288,7 @@
 | [GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public](https://github.com/GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public) | Research and evaluation workflow for a privacy-safe, action-safe network agent. | 2026-08-03 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-07-19 | 0 |
 | [gbadedata/mule-network-detection](https://github.com/gbadedata/mule-network-detection) | Graph-based money-mule and AML detection: leakage-safe network features, per-typology recall, and a cost-ranked account review queue. | 2026-07-23 | 0 |
-| [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-08-28 | 1 |
+| [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-11-22 | 1 |
 | [omnaiknavare06/NetGuard](https://github.com/omnaiknavare06/NetGuard) | NetGuard AI is an intelligent AI-powered network monitoring and troubleshooting system that detects anomalies, performs automated diagnostics using Google Gemini AI, executes safe network commands, and provides real-time monitoring with actionable incident analysis. | 2026-07-09 | 0 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
@@ -341,7 +341,7 @@
 | [GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public](https://github.com/GumbiiDigital/dgx-routeros-agent-rsl-flywheel-public) | Research and evaluation workflow for a privacy-safe, action-safe network agent. | 2026-08-03 | 0 |
 | [SubhanRaj/fix-my-windows](https://github.com/SubhanRaj/fix-my-windows) | A modular, CLI-based Windows diagnostic toolkit for IT professionals. Features auto-elevating scripts for deep OS recovery, safe network resets, printer fixes, automated runtime installations, and comprehensive system audits. | 2026-07-19 | 0 |
 | [gbadedata/mule-network-detection](https://github.com/gbadedata/mule-network-detection) | Graph-based money-mule and AML detection: leakage-safe network features, per-typology recall, and a cost-ranked account review queue. | 2026-07-23 | 0 |
-| [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-08-28 | 1 |
+| [ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-](https://github.com/ganeshshimple0001-cyber/-Aether-Net-Next-Gen-Safe-Multi-Threaded-Packet-Routing-Engine-.-) | A high-performance, memory-safe network routing engine written in Rust, featuring multi-threaded parallel execution, cryptographic security clearance verification, and active volumetric DDoS attack mitigation. | 2026-11-22 | 1 |
 | [omnaiknavare06/NetGuard](https://github.com/omnaiknavare06/NetGuard) | NetGuard AI is an intelligent AI-powered network monitoring and troubleshooting system that detects anomalies, performs automated diagnostics using Google Gemini AI, executes safe network commands, and provides real-time monitoring with actionable incident analysis. | 2026-07-09 | 0 |
 | [aaravraina3/rust_proxy](https://github.com/aaravraina3/rust_proxy) | Memory-Safe Network Proxy in Rust | 2026-06-27 | 0 |
 | [karthitom/LumenRecon](https://github.com/karthitom/LumenRecon) | LumenRecon: The Network Illuminator. An automated, safe network reconnaissance and asset monitoring tool. | 2026-06-19 | 0 |
