@@ -3,11 +3,12 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
+| [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
+| [iweave/ant-faucet-status](https://github.com/iweave/ant-faucet-status) | Autonomi faucet maintenance page | 2026-11-24 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
-| [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
-| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
@@ -102,12 +103,12 @@
 | [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
-| [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
+| [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
+| [iweave/ant-faucet-status](https://github.com/iweave/ant-faucet-status) | Autonomi faucet maintenance page | 2026-11-24 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
-| [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
-| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
@@ -202,7 +203,6 @@
 | [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
 | [josh-clsn/MissionCtrl](https://github.com/josh-clsn/MissionCtrl) | Basic data handling on the Autonomi Network | 2026-04-08 | 3 |
-| [Champii/antop](https://github.com/Champii/antop) | A simple node monitor for Autonomi network | 2025-04-25 | 2 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
