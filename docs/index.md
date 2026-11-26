@@ -3,18 +3,18 @@
 
 | Repository | Description | Updated | Stars |
 |------------|-------------|---------|-------|
+| [luc00/Wayfinder](https://github.com/luc00/Wayfinder) | Wayfinder Studio sposta la memoria del tuo progetto fuori dalla chat. Scomponi un’idea complessa in piccoli ticket autonomi e genera prompt essenziali da incollare in una chat nuova per ogni singolo passo | 2026-11-26 | 0 |
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
+| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
 | [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-07 | 0 |
-| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
 | [ZefangGuo/mesoscopic-platoon-sumo](https://github.com/ZefangGuo/mesoscopic-platoon-sumo) | Ambiente di simulazione SUMO/TraCI in Python per il controllo mesoscopico di plotoni di veicoli autonomi connessi (controllore a spaziatura costante e variabile). | 2026-11-24 | 0 |
 | [iweave/ant-faucet-status](https://github.com/iweave/ant-faucet-status) | Autonomi faucet maintenance page | 2026-11-24 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
-| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
-| [Leomacchia00/acd-hmi-assets](https://github.com/Leomacchia00/acd-hmi-assets) | Asset HMI tram semi-autonomi GoA2 · Advanced Communication Design UniFi | 2026-11-16 | 0 |
 | [iodice21/Bachelor-Degree-Thesis](https://github.com/iodice21/Bachelor-Degree-Thesis) | Sviluppo in MATLAB/Simulink di un modello di dinamica laterale (2-DoF) per veicoli autonomi. Confronto tra modello non lineare (Pacejka) e lineare (LTI), con sintesi di un controllore ottimo H_infty in retroazione per la reiezione del vento laterale. | 2026-11-13 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [tobtill/ai-levels](https://github.com/tobtill/ai-levels) | Från ingen AI till bara AI - 9 nivåer av autonomi (Slidev deck) | 2026-11-04 | 0 |
@@ -103,18 +103,18 @@
 | [Madcowe/ant-counter](https://github.com/Madcowe/ant-counter) | A simple counter app that stores it's data on the autonomi network | 2025-04-27 | 0 |
 | [tobe5/nekotech.ai-copy](https://github.com/tobe5/nekotech.ai-copy) | project I worked on along with Autonomi to help Africans students study abroad  | 2025-04-15 | 0 |
 | [iweave/atr](https://github.com/iweave/atr) | Autonomi Transaction Reporter | 2025-04-14 | 0 |
+| [luc00/Wayfinder](https://github.com/luc00/Wayfinder) | Wayfinder Studio sposta la memoria del tuo progetto fuori dalla chat. Scomponi un’idea complessa in piccoli ticket autonomi e genera prompt essenziali da incollare in una chat nuova per ogni singolo passo | 2026-11-26 | 0 |
+| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
+| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [TAVARDT-Italia/geo-search-readiness-it](https://github.com/TAVARDT-Italia/geo-search-readiness-it) | Auditor CLI di prontezza per motori di ricerca IA (GEO) e indicizzazione da parte di agenti autonomi e LLM. | 2026-11-20 | 0 |
 | [DavidMc0/autonomirror](https://github.com/DavidMc0/autonomirror) | Autonomi download mirror button creation and management | 2026-11-07 | 0 |
-| [Sirexer/SRB2-autonomi-launcher](https://github.com/Sirexer/SRB2-autonomi-launcher) | Universal launcher for SRB2—its main feature is downloading add-ons using Autonomi | 2026-11-21 | 3 |
 | [ZefangGuo/mesoscopic-platoon-sumo](https://github.com/ZefangGuo/mesoscopic-platoon-sumo) | Ambiente di simulazione SUMO/TraCI in Python per il controllo mesoscopico di plotoni di veicoli autonomi connessi (controllore a spaziatura costante e variabile). | 2026-11-24 | 0 |
 | [iweave/ant-faucet-status](https://github.com/iweave/ant-faucet-status) | Autonomi faucet maintenance page | 2026-11-24 | 0 |
 | [aautonomicc/Watch-It](https://github.com/aautonomicc/Watch-It) | Media Player app to stream media direct from the Autonomi network | 2026-11-11 | 0 |
-| [vjt/irc-games](https://github.com/vjt/irc-games) | IRC games — bot autonomi per Azzurra e IRCnet (suore, impiccato) | 2026-11-11 | 0 |
 | [DavidMc0/Antnet](https://github.com/DavidMc0/Antnet) | Loader for websites that are hosted on the Autonomi network | 2026-11-18 | 1 |
 | [DaniloFox-ai/aethel](https://github.com/DaniloFox-ai/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [AGENTI-AI-TERMINUSCODE/aethel](https://github.com/AGENTI-AI-TERMINUSCODE/aethel) | Aethel — Intelligenza Artificiale Sovrana by TerminusCode | Piattaforma Enterprise per Agenti Autonomi, Skill Verificate, REST API & MCP. | 2026-11-18 | 0 |
 | [aautonomicc/watch-site](https://github.com/aautonomicc/watch-site) | Landing page for W@tch — peer-to-peer media player for the Autonomi network | 2026-11-10 | 0 |
-| [Leomacchia00/acd-hmi-assets](https://github.com/Leomacchia00/acd-hmi-assets) | Asset HMI tram semi-autonomi GoA2 · Advanced Communication Design UniFi | 2026-11-16 | 0 |
 | [iodice21/Bachelor-Degree-Thesis](https://github.com/iodice21/Bachelor-Degree-Thesis) | Sviluppo in MATLAB/Simulink di un modello di dinamica laterale (2-DoF) per veicoli autonomi. Confronto tra modello non lineare (Pacejka) e lineare (LTI), con sintesi di un controllore ottimo H_infty in retroazione per la reiezione del vento laterale. | 2026-11-13 | 0 |
 | [bochaco/formicaio](https://github.com/bochaco/formicaio) | Formicaio is an intuitive application designed to help you run nodes on the Autonomi network. This P2P network allows users to share storage and bandwidth in exchange for ANT tokens, an ERC-20 token on the Arbitrum One network. | 2026-11-10 | 5 |
 | [tobtill/ai-levels](https://github.com/tobtill/ai-levels) | Från ingen AI till bara AI - 9 nivåer av autonomi (Slidev deck) | 2026-11-04 | 0 |
